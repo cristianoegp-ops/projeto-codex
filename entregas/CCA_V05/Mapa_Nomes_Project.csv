@@ -1,0 +1,400 @@
+﻿UID;Codigo fonte;Nome V05;Descricao completa;Nome V04;Tipo
+1;PQ-L0006-1.1.1;R00001;Construção de canteiro de obras central em CCA Roça Grande (Caeté/MG);R00001 - Construção de canteiro de obras central em CCA Roça Grande (Caeté/MG);Material contratual
+2;PQ-L0007-1.1.2;R00002;Construção de canteiro de obras central em CCA Pilar (Santa Bárbara/MG);R00002 - Construção de canteiro de obras central em CCA Pilar (Santa Bárbara/MG);Material contratual
+3;PQ-L0008-1.1.3;R00003;Construção de canteiro de obras central em CPA (Itabirito/MG);R00003 - Construção de canteiro de obras central em CPA (Itabirito/MG);Material contratual
+4;PQ-L0011-2.1.1;R00004;Manutenção de canteiro de obras central em CCA Roça Grande (Caeté/MG);R00004 - Manutenção de canteiro de obras central em CCA Roça Grande (Caeté/MG);Material contratual
+5;PQ-L0012-2.1.2;R00005;Manutenção de canteiro de obras central em CCA Pilar (Santa Bárbara/MG);R00005 - Manutenção de canteiro de obras central em CCA Pilar (Santa Bárbara/MG);Material contratual
+6;PQ-L0013-2.1.3;R00006;Manutenção de canteiro de obras central em CPA (Itabirito/MG);R00006 - Manutenção de canteiro de obras central em CPA (Itabirito/MG);Material contratual
+7;PQ-L0016-3.1.1;R00007;Manutenção de acessos - Caminho de serviço - CCA Roça Grande (Caeté/MG);R00007 - Manutenção de acessos - Caminho de serviço - CCA Roça Grande (Caeté/MG);Material contratual
+8;PQ-L0017-3.1.2;R00008;Manutenção de acessos - Caminho de serviço - CCA Pilar (Santa Bárbara/MG);R00008 - Manutenção de acessos - Caminho de serviço - CCA Pilar (Santa Bárbara/MG);Material contratual
+9;PQ-L0018-3.1.3;R00009;Manutenção de acessos - Caminho de serviço - CPA (Itabirito/MG);R00009 - Manutenção de acessos - Caminho de serviço - CPA (Itabirito/MG);Material contratual
+10;PQ-L0021-4.1.1;R00010;Trator de esteiras tipo D-6;R00010 - Trator de esteiras tipo D-6;Material contratual
+11;PQ-L0022-4.1.2;R00011;Motoniveladora;R00011 - Motoniveladora;Material contratual
+12;PQ-L0023-4.1.3;R00012;Retroescavadeira;R00012 - Retroescavadeira;Material contratual
+13;PQ-L0024-4.1.4;R00013;Retroescavadeira de pequeno porte;R00013 - Retroescavadeira de pequeno porte;Material contratual
+14;PQ-L0025-4.1.5;R00014;Escavadeira;R00014 - Escavadeira;Material contratual
+15;PQ-L0026-4.1.6;R00015;Carregadeira;R00015 - Carregadeira;Material contratual
+16;PQ-L0027-4.1.7;R00016;Caminhão traçado 6x4;R00016 - Caminhão traçado 6x4;Material contratual
+17;PQ-L0028-4.1.8;R00017;Caminhão Pipa;R00017 - Caminhão Pipa;Material contratual
+18;PQ-L0029-4.1.9;R00018;Rolo compactador vibratório pé de carneiro;R00018 - Rolo compactador vibratório pé de carneiro;Material contratual
+19;PQ-L0031-4.2.1;R00019;Oficial;R00019 - Oficial;Material contratual
+20;PQ-L0032-4.2.2;R00020;Ajudante;R00020 - Ajudante;Material contratual
+21;PQ-L0036-1.1.1;R00021;Mobilização de pessoal e equipamentos;R00021 - Mobilização de pessoal e equipamentos;Material contratual
+22;PQ-L0037-1.1.2;R00022;Desmobilização de pessoal e equipamentos;R00022 - Desmobilização de pessoal e equipamentos;Material contratual
+23;PQ-L0040-2.1.1;R00023;Construção de canteiro avançado nas frentes de serviço;R00023 - Construção de canteiro avançado nas frentes de serviço;Material contratual
+24;PQ-L0043-3.1.1;R00024;Manutenção de canteiro avançado nas frentes de serviço;R00024 - Manutenção de canteiro avançado nas frentes de serviço;Material contratual
+25;PQ-L0046-4.1.1;R00025;Supressão vegetal,  destocamento  e  limpeza de árvores,  arbustos, vegetação  rasteira e  entulhos com remoção para área de depósito - DMT até 1000m;R00025 - Supressão vegetal - destocamento  e  limpeza de árvores - arbustos - vegetação  rasteira e  entulhos com remoção para área de depósito - DMT até 1000m;Material contratual
+26;PQ-L0048-4.2.1;R00026;Escavação, carga e transporte, descarga e espalhamento de camada de solo superficial para a área de depósito - DMT até 1000m;R00026 - Escavação - carga e transporte - descarga e espalhamento de camada de solo superficial para a área de depósito - DMT até 1000m;Material contratual
+27;PQ-L0051-5.1.1;R00027;Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 3,0m;R00027 - Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 3.0m;Material contratual
+28;PQ-L0053-5.2.1;R00028;Carga, transporte, descarga e espalhamento de material de 1ª categoria em ADME - DMT até 1000m;R00028 - Carga - transporte - descarga e espalhamento de material de 1ª categoria em ADME - DMT até 1000m;Material contratual
+29;PQ-L0055-5.3.1;R00029;Escavação mecanizada de cavas ou valas em material de 1ª categoria (estéril - Barragem Santa Izabel);R00029 - Escavação mecanizada de cavas ou valas em material de 1ª categoria (estéril - Barragem Santa Izabel);Material contratual
+30;PQ-L0057-5.4.1;R00030;Carga, transporte, descarga e espalhamento de material de 1ª categoria - DMT até 1700m (Estéril);R00030 - Carga - transporte - descarga e espalhamento de material de 1ª categoria - DMT até 1700m (Estéril);Material contratual
+31;PQ-L0058-5.4.2;R00031;Carga, transporte, descarga e espalhamento de material de 1ª categoria - DMT até 1700m (material de baixa permeabilidade a ser disponibilizado pela Jaguar);R00031 - Carga - transporte - descarga e espalhamento de material de 1ª categoria - DMT até 1700m (material de baixa permeabilidade a ser disponibilizado pela Jaguar);Material contratual
+32;PQ-L0059-5.4.3;R00032;Carga, transporte, descarga e espalhamento de solo para revestimento vegetal - DMT até 3000 m;R00032 - Carga - transporte - descarga e espalhamento de solo para revestimento vegetal - DMT até 3000 m;Material contratual
+33;PQ-L0061-5.1;R00033;Fornecimento, instalação, operação e manutenção de poços de bombeamento incluindo perfuração, tratamentos necesários, bomba e manutenção;R00033 - Fornecimento - instalação - operação e manutenção de poços de bombeamento incluindo perfuração - tratamentos necesários - bomba e manutenção;Material contratual
+34;PQ-L0062-5.2;R00034;Fornecimento, instalação, operação e manutenção do bombeamento dos lagos ( 3 linhas );R00034 - Fornecimento - instalação - operação e manutenção do bombeamento dos lagos ( 3 linhas );Material contratual
+35;PQ-L0064-6.1;R00035;Instalação de manta impermeável de 1,5 mm TEXTURIZADA EM AMBAS FACES;R00035 - Instalação de manta impermeável de 1.5 mm TEXTURIZADA EM AMBAS FACES;Material contratual
+36;PQ-L0067-7.1.1;R00036;Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 1,5m;R00036 - Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 1.5m;Material contratual
+37;PQ-L0069-7.2.1;R00037;Carga, transporte, descarga e espalhamento de enrocamento D50-0,10m  (Canal C1, Canal C2, Descidas D'água/Passagem Molhada);R00037 - Carga - transporte - descarga e espalhamento de enrocamento D50-0.10m  (Canal C1 - Canal C2 - Descidas D'água/Passagem Molhada);Material contratual
+38;PQ-L0070-7.2.2;R00038;Carga, transporte, descarga e espalhamento de enrocamento D50-0,30m  (Proteção à jusante do reservatório);R00038 - Carga - transporte - descarga e espalhamento de enrocamento D50-0.30m  (Proteção à jusante do reservatório);Material contratual
+39;PQ-L0071-7.2.3;R00039;Argamassa (Canal C1, Canal C2, Descidas D'água/Passagem Molhada);R00039 - Argamassa (Canal C1 - Canal C2 - Descidas D'água/Passagem Molhada);Material contratual
+40;PQ-L0074-8.1.1;R00040;Aplicação de rolo de grama tipo esmeralda;R00040 - Aplicação de rolo de grama tipo esmeralda;Material contratual
+41;PQ-L0078-1.1.1;R00041;Mobilização de pessoal e equipamentos;R00041 - Mobilização de pessoal e equipamentos;Material contratual
+42;PQ-L0079-1.1.2;R00042;Desmobilização de pessoal e equipamentos;R00042 - Desmobilização de pessoal e equipamentos;Material contratual
+43;PQ-L0082-2.1.1;R00043;Construção de canteiro avançado nas frentes de serviço;R00043 - Construção de canteiro avançado nas frentes de serviço;Material contratual
+44;PQ-L0085-3.1.1;R00044;Manutenção de canteiro avançado nas frentes de serviço;R00044 - Manutenção de canteiro avançado nas frentes de serviço;Material contratual
+45;PQ-L0088-4.1.1;R00045;Escavação, carga, transporte, descarga e espalhamento de solo mole - DMT até 1000m;R00045 - Escavação - carga - transporte - descarga e espalhamento de solo mole - DMT até 1000m;Material contratual
+46;PQ-L0091-4.2.1.1;R00046;Espalhamento e adensamento de transição (areia);R00046 - Espalhamento e adensamento de transição (areia);Material contratual
+47;PQ-L0092-4.2.1.2;R00047;Espalhamento e compactação de transição (brita nº 0);R00047 - Espalhamento e compactação de transição (brita nº 0);Material contratual
+48;PQ-L0093-4.2.1.3;R00048;Espalhamento e compactação de transição (brita nº 3);R00048 - Espalhamento e compactação de transição (brita nº 3);Material contratual
+49;PQ-L0094-4.2.1.4;R00049;Escavação, carga, transporte e espalhamento e Compactação de aterro (reforço em estéril) - DMT - 1,5 KM Pilha santa Isabel;R00049 - Escavação - carga - transporte e espalhamento e Compactação de aterro (reforço em estéril) - DMT - 1.5 KM Pilha santa Isabel;Material contratual
+50;PQ-L0095-4.2.1.5;R00050;Escavação, carga, transporte e espalhamento e compactação de aterro  (reforço em enrocamento) - DMT - 1,5 KM Pilha Santa Isabel;R00050 - Escavação - carga - transporte e espalhamento e compactação de aterro  (reforço em enrocamento) - DMT - 1.5 KM Pilha Santa Isabel;Material contratual
+51;PQ-L0098-4.3.1.1;R00051;Espalhamento e adensamento de transição (areia);R00051 - Espalhamento e adensamento de transição (areia);Material contratual
+52;PQ-L0099-4.3.1.2;R00052;Espalhamento e compactação de transição (brita nº 0);R00052 - Espalhamento e compactação de transição (brita nº 0);Material contratual
+53;PQ-L0100-4.3.1.3;R00053;Espalhamento e compactação de transição (brita nº 3);R00053 - Espalhamento e compactação de transição (brita nº 3);Material contratual
+54;PQ-L0101-4.3.1.4;R00054;Escavação, carga, transporte e espalhamento e compactação de aterro sem controle do grau de compactação (enrocamento) - DMT 1,5 KM Pilha Santa Isabel;R00054 - Escavação - carga - transporte e espalhamento e compactação de aterro sem controle do grau de compactação (enrocamento) - DMT 1.5 KM Pilha Santa Isabel;Material contratual
+55;PQ-L0106-1.1.1.1;R00055;Mobilização de pessoal e equipamentos;R00055 - Mobilização de pessoal e equipamentos;Material contratual
+56;PQ-L0107-1.1.1.2;R00056;Desmobilização de pessoal e equipamentos;R00056 - Desmobilização de pessoal e equipamentos;Material contratual
+57;PQ-L0110-2.1.1;R00057;Construção de canteiro avançado nas frentes de serviço;R00057 - Construção de canteiro avançado nas frentes de serviço;Material contratual
+58;PQ-L0113-1.3.1.1;R00058;Manutenção de canteiro avançado nas frentes de serviço;R00058 - Manutenção de canteiro avançado nas frentes de serviço;Material contratual
+59;PQ-L0116-1.4.1.1;R00059;Regularização - Aterro - Transporte, lançamento, descarregamento, espalhamento e compactação de rejeito filtrado (98% do Proctor Normal);R00059 - Regularização - Aterro - Transporte - lançamento - descarregamento - espalhamento e compactação de rejeito filtrado (98% do Proctor Normal);Material contratual
+60;PQ-L0117-1.4.1.2;R00060;Regularização - Corte - Transporte, lançamento, descarregamento, espalhamento e compactação de rejeito filtrado (98% do Proctor Normal);R00060 - Regularização - Corte - Transporte - lançamento - descarregamento - espalhamento e compactação de rejeito filtrado (98% do Proctor Normal);Material contratual
+61;PQ-L0120-1.5.1.1;R00061;Serviço de instalação da geomembrana PEAD 1,5 mm : geomembrana, equipamentos de solda,testes, acessórios, veículo/combustível, hospedagem e refeições.;R00061 - Serviço de instalação da geomembrana PEAD 1.5 mm : geomembrana - equipamentos de solda - testes - acessórios - veículo/combustível - hospedagem e refeições.;Material contratual
+62;PQ-L0122-1.5.2.1;R00062;Fornecimento de Cordão de solda de PEAD e=4,0 mm (peso total);R00062 - Fornecimento de Cordão de solda de PEAD e=4.0 mm (peso total);Material contratual
+63;PQ-L0125-1.6.1.1;R00063;Serviço de instalação do geotêxtil não tecido 100% poliéster #400 g/m²;R00063 - Serviço de instalação do geotêxtil não tecido 100% poliéster #400 g/m²;Material contratual
+64;PQ-L0128-1.7.1.1;R00064;Escavação, carga e transporte de solo - DMT 5,5 km;R00064 - Escavação - carga e transporte de solo - DMT 5.5 km;Material contratual
+65;PQ-L0129-1.7.1.2;R00065;Espalhamento e nivelamento do solo orgânico;R00065 - Espalhamento e nivelamento do solo orgânico;Material contratual
+66;PQ-L0130-1.7.1.3;R00066;Levantamento Topográfico;R00066 - Levantamento Topográfico;Material contratual
+67;PQ-L0133-1.8.1.1;R00067;Aplicação de rolo de grama tipo esmeralda;R00067 - Aplicação de rolo de grama tipo esmeralda;Material contratual
+68;PQ-L0134-1.8.1.2;R00068;Fornecimento de Calcário e fertilizante NPK 04-14-08 (500 a 700 kg/ha), composto orgânico (1600 a 1800 kg/ha);R00068 - Fornecimento de Calcário e fertilizante NPK 04-14-08 (500 a 700 kg/ha) - composto orgânico (1600 a 1800 kg/ha);Material contratual
+69;PQ-L0135-1.8.1.3;R00069;Serviço de aplicação de corretivos de acidez do solo;R00069 - Serviço de aplicação de corretivos de acidez do solo;Material contratual
+70;PQ-L0139-2.1.1.1;R00070;Mobilização de pessoal e equipamentos;R00070 - Mobilização de pessoal e equipamentos;Material contratual
+71;PQ-L0140-2.1.1.2;R00071;Desmobilização de pessoal e equipamentos;R00071 - Desmobilização de pessoal e equipamentos;Material contratual
+72;PQ-L0143-2.2.1.1;R00072;Construção de canteiro de obras;R00072 - Construção de canteiro de obras;Material contratual
+73;PQ-L0146-2.3.1.1;R00073;Manutenção de canteiro de obras;R00073 - Manutenção de canteiro de obras;Material contratual
+74;PQ-L0149-2.4.1.1;R00074;Regularização - Aterro - Transporte, lançamento, descarregamento, espalhamento e compactação de rejeito filtrado (98% do Proctor Normal);R00074 - Regularização - Aterro - Transporte - lançamento - descarregamento - espalhamento e compactação de rejeito filtrado (98% do Proctor Normal);Material contratual
+75;PQ-L0150-2.4.1.2;R00075;Regularização - Corte - Transporte, lançamento, descarregamento, espalhamento e compactação de rejeito filtrado (98% do Proctor Normal);R00075 - Regularização - Corte - Transporte - lançamento - descarregamento - espalhamento e compactação de rejeito filtrado (98% do Proctor Normal);Material contratual
+76;PQ-L0153-2.5.1.1;R00076;Serviço de instalação da geomembrana PEAD 1,5 mm : geomembrana, equipamentos de solda,testes, acessórios, veículo/combustível, hospedagem e refeições.;R00076 - Serviço de instalação da geomembrana PEAD 1.5 mm : geomembrana - equipamentos de solda - testes - acessórios - veículo/combustível - hospedagem e refeições.;Material contratual
+77;PQ-L0155-2.5.2.1;R00077;Forecimeto de cordão de solda de PEAD e=4,0 mm (peso total);R00077 - Forecimeto de cordão de solda de PEAD e=4.0 mm (peso total);Material contratual
+78;PQ-L0158-2.6.1.1;R00078;Serviço de instalação do geotêxtil não tecido 100% poliéster #400 g/m²;R00078 - Serviço de instalação do geotêxtil não tecido 100% poliéster #400 g/m²;Material contratual
+79;PQ-L0161-2.7.1.1;R00079;Escavação, carga e transporte de solo;R00079 - Escavação - carga e transporte de solo;Material contratual
+80;PQ-L0162-2.7.1.2;R00080;Espalhamento e nivelamento do solo orgânico;R00080 - Espalhamento e nivelamento do solo orgânico;Material contratual
+81;PQ-L0163-2.7.1.3;R00081;Levantamento Topográfico;R00081 - Levantamento Topográfico;Material contratual
+82;PQ-L0166-2.8.1.1;R00082;Aplicação de rolo de grama tipo esmeralda;R00082 - Aplicação de rolo de grama tipo esmeralda;Material contratual
+83;PQ-L0167-2.8.1.2;R00083;Calcário;R00083 - Calcário;Material contratual
+84;PQ-L0168-2.8.1.3;R00084;Serviço de aplicação de corretivos de acidez;R00084 - Serviço de aplicação de corretivos de acidez;Material contratual
+85;PQ-L0172-3.1.1.1;R00085;Mobilização de pessoal e equipamentos;R00085 - Mobilização de pessoal e equipamentos;Material contratual
+86;PQ-L0173-3.1.1.2;R00086;Desmobilização de pessoal e equipamentos;R00086 - Desmobilização de pessoal e equipamentos;Material contratual
+87;PQ-L0176-3.1.2.1;R00087;Mobilização de pessoal e equipamentos;R00087 - Mobilização de pessoal e equipamentos;Material contratual
+88;PQ-L0177-3.1.2.2;R00088;Desmobilização de pessoal e equipamentos;R00088 - Desmobilização de pessoal e equipamentos;Material contratual
+89;PQ-L0180-3.3.1.1;R00089;Manutenção de canteiro de obras;R00089 - Manutenção de canteiro de obras;Material contratual
+90;PQ-L0183-3.4.1.1;R00090;Regularização - Aterro - Transporte, lançamento, descarregamento, espalhamento e compactação de rejeito filtrado (98% do Proctor Normal);R00090 - Regularização - Aterro - Transporte - lançamento - descarregamento - espalhamento e compactação de rejeito filtrado (98% do Proctor Normal);Material contratual
+91;PQ-L0184-3.4.1.2;R00091;Regularização - Corte - Transporte, lançamento, descarregamento, espalhamento e compactação de rejeito filtrado (98% do Proctor Normal);R00091 - Regularização - Corte - Transporte - lançamento - descarregamento - espalhamento e compactação de rejeito filtrado (98% do Proctor Normal);Material contratual
+92;PQ-L0187-3.5.1.1;R00092;Aplicação de Brita 0/Brita 1 (volume total);R00092 - Aplicação de Brita 0/Brita 1 (volume total);Material contratual
+93;PQ-L0190-3.6.1.1;R00093;Instalação de Geodrenos Verticais - Núcleo em PEAD/Filtro Não Tecido de Polipropileno (comprimento total);R00093 - Instalação de Geodrenos Verticais - Núcleo em PEAD/Filtro Não Tecido de Polipropileno (comprimento total);Material contratual
+94;PQ-L0193-3.7.1.1;R00094;Serviço de instalação e costura do geotêxtil não tecido 100% polipropileno #400 g/m²;R00094 - Serviço de instalação e costura do geotêxtil não tecido 100% polipropileno #400 g/m²;Material contratual
+95;PQ-L0196-3.8.1.1;R00095;Serviço de instalação e costura do geotêxtil não tecido 100% polipropileno #400 g/m²;R00095 - Serviço de instalação e costura do geotêxtil não tecido 100% polipropileno #400 g/m²;Material contratual
+96;PQ-L0199-3.9.1.1;R00096;Serviço de instalação do geotêxtil não tecido 100% poliéster #400 g/m²;R00096 - Serviço de instalação do geotêxtil não tecido 100% poliéster #400 g/m²;Material contratual
+97;PQ-L0202-3.10.1.1;R00097;Serviço de instalação da geomembrana PEAD 1,5 mm : geomembrana, equipamentos de solda,testes, acessórios, veículo/combustível, hospedagem e refeições.;R00097 - Serviço de instalação da geomembrana PEAD 1.5 mm : geomembrana - equipamentos de solda - testes - acessórios - veículo/combustível - hospedagem e refeições.;Material contratual
+98;PQ-L0204-3.10.1.2;R00098;Forecimeto de cordão de solda de PEAD e=4,0 mm (peso total);R00098 - Forecimeto de cordão de solda de PEAD e=4.0 mm (peso total);Material contratual
+99;PQ-L0207-3.11.1.1;R00099;Escavação, carga e transporte de solo;R00099 - Escavação - carga e transporte de solo;Material contratual
+100;PQ-L0208-3.11.1.2;R00100;Espalhamento e nivelamento do solo orgânico;R00100 - Espalhamento e nivelamento do solo orgânico;Material contratual
+101;PQ-L0209-3.11.1.3;R00101;Levantamento Topográfico;R00101 - Levantamento Topográfico;Material contratual
+102;PQ-L0212-3.12.1.1;R00102;Fornecimento e aplicação de rolo de grama tipo esmeralda;R00102 - Fornecimento e aplicação de rolo de grama tipo esmeralda;Material contratual
+103;PQ-L0213-3.12.1.2;R00103;Fornecimento e aplicação de Calcário;R00103 - Fornecimento e aplicação de Calcário;Material contratual
+104;PQ-L0214-3.12.1.3;R00104;Serviço de aplicação de corretivos de acidez;R00104 - Serviço de aplicação de corretivos de acidez;Material contratual
+105;PQ-L0217-3.13.1.1;R00105;Fornecimento, instalação, operação e manutenção das bombas;R00105 - Fornecimento - instalação - operação e manutenção das bombas;Material contratual
+106;PQ-L0218-3.13.1.2;R00106;Fornecimento e instalação de tubos PEAD 600 mm (com área lateral de furos maior que 0,38m²);R00106 - Fornecimento e instalação de tubos PEAD 600 mm (com área lateral de furos maior que 0.38m²);Material contratual
+107;PQ-L0222-1.1.1;R00107;Mobilização de pessoal e equipamentos;R00107 - Mobilização de pessoal e equipamentos;Material contratual
+108;PQ-L0223-1.1.2;R00108;Desmobilização de pessoal e equipamentos;R00108 - Desmobilização de pessoal e equipamentos;Material contratual
+109;PQ-L0226-2.2;R00109;Construção de canteiro avançado nas frentes de serviço;R00109 - Construção de canteiro avançado nas frentes de serviço;Material contratual
+110;PQ-L0229-3.1.1;R00110;Manutenção de canteiro avançado nas frentes de serviço;R00110 - Manutenção de canteiro avançado nas frentes de serviço;Material contratual
+111;PQ-L0232-3.1.1;R00111;Supressão vegetal,  destocamento  e  limpeza de árvores,  arbustos, vegetação  rasteira e  entulhos com remoção para área de depósito (1) - DMT 1,5 KM;R00111 - Supressão vegetal - destocamento  e  limpeza de árvores - arbustos - vegetação  rasteira e  entulhos com remoção para área de depósito (1) - DMT 1.5 KM;Material contratual
+112;PQ-L0235-4.1.1;R00112;Espalhamento e compactação controlada proctor normal 98 %;R00112 - Espalhamento e compactação controlada proctor normal 98 %;Material contratual
+113;PQ-L0238-5.1.1;R00113;Aplicação de Areia;R00113 - Aplicação de Areia;Material contratual
+114;PQ-L0239-5.1.2;R00114;Aplicação de Brita 0;R00114 - Aplicação de Brita 0;Material contratual
+115;PQ-L0240-5.1.3;R00115;Aplicação de Brita 3;R00115 - Aplicação de Brita 3;Material contratual
+116;PQ-L0241-5.1.4;R00116;Aplicação de Enrocamento D= 15cm;R00116 - Aplicação de Enrocamento D= 15cm;Material contratual
+117;PQ-L0244-5.2.1.1;R00117;Montagem e aplicação de aço CA-50 nervurado, diâmetro - 6.3mm;R00117 - Montagem e aplicação de aço CA-50 nervurado - diâmetro - 6.3mm;Material contratual
+118;PQ-L0245-5.2.1.2;R00118;Montagem e aplicação de aço CA-50 nervurado, diâmetro - 8.0mm;R00118 - Montagem e aplicação de aço CA-50 nervurado - diâmetro - 8.0mm;Material contratual
+119;PQ-L0246-5.2.1.3;R00119;Montagem e aplicação de aço CA-50 nervurado, diâmetro - 10.0mm;R00119 - Montagem e aplicação de aço CA-50 nervurado - diâmetro - 10.0mm;Material contratual
+120;PQ-L0247-5.2.1.4;R00120;Aplicação de lastro - Concreto Magro - 5MPa (m³);R00120 - Aplicação de lastro - Concreto Magro - 5MPa (m³);Material contratual
+121;PQ-L0248-5.2.1.5;R00121;Aplicação de concreto 30 MPa (m³);R00121 - Aplicação de concreto 30 MPa (m³);Material contratual
+122;PQ-L0249-5.2.1.6;R00122;Fornecimento e aplicação de fôrma (m²);R00122 - Fornecimento e aplicação de fôrma (m²);Material contratual
+123;PQ-L0250-5.2.1.7;R00123;Aplicação de Junta Jeene (m);R00123 - Aplicação de Junta Jeene (m);Material contratual
+124;PQ-L0252-5.3.1;R00124;Construção de enrocamento Argamassado - L=4,0 H=0,5;R00124 - Construção de enrocamento Argamassado - L=4.0 H=0.5;Material contratual
+125;PQ-L0254-5.4.1;R00125;Escavação, carga e transporte DMT até 10 Km;R00125 - Escavação - carga e transporte DMT até 10 Km;Material contratual
+126;PQ-L0255-5.4.2;R00126;Aplicação de Geomembrana de PEAD - 2mm (2);R00126 - Aplicação de Geomembrana de PEAD - 2mm (2);Material contratual
+127;PQ-L0256-5.4.3;R00127;"Aplicação de Geocécula PEAD de 150mm preenchida com concreto convencional fck => 20,0 Mpa, slump de 3"" a 4"". (2)";"R00127 - Aplicação de Geocécula PEAD de 150mm preenchida com concreto convencional fck => 20.0 Mpa - slump de 3"" a 4"". (2)";Material contratual
+128;PQ-L0257-5.4.4;R00128;Aplicação de manta geotêxtil não tecida em poliéster, agulhado, com resistência a tração de 21kN/m ( tipo Bidim RT 21) (2);R00128 - Aplicação de manta geotêxtil não tecida em poliéster - agulhado - com resistência a tração de 21kN/m ( tipo Bidim RT 21) (2);Material contratual
+129;PQ-L0258-5.4.5;R00129;Aplicação de Tensor Multidirecional, tipo TX603, ou Similar - Fornecimento e Instalação(2);R00129 - Aplicação de Tensor Multidirecional - tipo TX603 - ou Similar - Fornecimento e Instalação(2);Material contratual
+130;PQ-L0261-6.1.1;R00130;Cobertura com Solo Orgânico (espessura de 0,10 m) (3);R00130 - Cobertura com Solo Orgânico (espessura de 0.10 m) (3);Material contratual
+131;PQ-L0262-6.1.2;R00131;Aplicação de Geomanta MacMat R (2);R00131 - Aplicação de Geomanta MacMat R (2);Material contratual
+132;PQ-L0263-6.1.3;R00132;Aplicação de Argila compactada (espessura de 0,30m) (3);R00132 - Aplicação de Argila compactada (espessura de 0.30m) (3);Material contratual
+133;PQ-L0267-1.1.1;R00133;Mobilização de pessoal e equipamentos;R00133 - Mobilização de pessoal e equipamentos;Material contratual
+134;PQ-L0268-1.1.2;R00134;Desmobilização de pessoal e equipamentos;R00134 - Desmobilização de pessoal e equipamentos;Material contratual
+135;PQ-L0271-2.1.1;R00135;Construção de canteiro avançado nas frentes de serviço;R00135 - Construção de canteiro avançado nas frentes de serviço;Material contratual
+136;PQ-L0274-3.1.1;R00136;Manutenção de canteiro avançado nas frentes de serviço;R00136 - Manutenção de canteiro avançado nas frentes de serviço;Material contratual
+137;PQ-L0277-4.1.1;R00137;Supressão vegetal,  destocamento  e  limpeza de árvores,  arbustos, vegetação  rasteira e  entulhos com remoção para área de depósito (1) - DMT 1,5 KM;R00137 - Supressão vegetal - destocamento  e  limpeza de árvores - arbustos - vegetação  rasteira e  entulhos com remoção para área de depósito (1) - DMT 1.5 KM;Material contratual
+138;PQ-L0280-5.1.1;R00138;Escavação e tratamento da fundação - Remoção do Coluvio -  Escavação e transporte considerando espessura de 10,00 m - DMT até 0,6 Km - cava do Louro (1);R00138 - Escavação e tratamento da fundação - Remoção do Coluvio -  Escavação e transporte considerando espessura de 10.00 m - DMT até 0.6 Km - cava do Louro (1);Material contratual
+139;PQ-L0282-6.1;R00139;Volume de Aterro - Argila Compactada - Camada de 1,0 metro. (3);R00139 - Volume de Aterro - Argila Compactada - Camada de 1.0 metro. (3);Material contratual
+140;PQ-L0283-6.2;R00140;Aplicação de Geomembrana de PEAD - 2mm - Texturizada nas duas faces (2);R00140 - Aplicação de Geomembrana de PEAD - 2mm - Texturizada nas duas faces (2);Material contratual
+141;PQ-L0285-7.1;R00141;Aplicação de Brita (3);R00141 - Aplicação de Brita (3);Material contratual
+142;PQ-L0286-7.2;R00142;Aplicação  de Geotubo drenante, corrugado, flexível, fabricado em PEAD, Ø >= 100mm;R00142 - Aplicação  de Geotubo drenante - corrugado - flexível - fabricado em PEAD - Ø >= 100mm;Material contratual
+143;PQ-L0287-7.3;R00143;Aplicação de Geotêxtil tipo Bidim RT-21² (2);R00143 - Aplicação de Geotêxtil tipo Bidim RT-21² (2);Material contratual
+144;PQ-L0288-7.4;R00144;Caixa Coletora em Concreto - 1,0 m x 1,0 m x 1,0m e=0,15m;R00144 - Caixa Coletora em Concreto - 1.0 m x 1.0 m x 1.0m e=0.15m;Material contratual
+145;PQ-L0291-8.1.1;R00145;Aplicação de Areia;R00145 - Aplicação de Areia;Material contratual
+146;PQ-L0292-8.1.2;R00146;Aplicação de Brita 0;R00146 - Aplicação de Brita 0;Material contratual
+147;PQ-L0293-8.1.3;R00147;Aplicação de Brita 3;R00147 - Aplicação de Brita 3;Material contratual
+148;PQ-L0294-8.1.4;R00148;Aplicação de Enrocamento D= 15cm;R00148 - Aplicação de Enrocamento D= 15cm;Material contratual
+149;PQ-L0297-8.2.1.1;R00149;Montagem e aplicação de aço CA-50 nervurado, diâmetro - 6.3mm;R00149 - Montagem e aplicação de aço CA-50 nervurado - diâmetro - 6.3mm;Material contratual
+150;PQ-L0298-8.2.1.2;R00150;Montagem e aplicação de aço CA-50 nervurado, diâmetro - 8.0mm;R00150 - Montagem e aplicação de aço CA-50 nervurado - diâmetro - 8.0mm;Material contratual
+151;PQ-L0299-8.2.1.3;R00151;Montagem e aplicação de aço CA-50 nervurado, diâmetro - 10.0mm;R00151 - Montagem e aplicação de aço CA-50 nervurado - diâmetro - 10.0mm;Material contratual
+152;PQ-L0300-8.2.1.4;R00152;Aplicação de lastro - Concreto Magro - 5MPa (m³);R00152 - Aplicação de lastro - Concreto Magro - 5MPa (m³);Material contratual
+153;PQ-L0301-8.2.1.5;R00153;Aplicação de concreto 30 MPa (m³);R00153 - Aplicação de concreto 30 MPa (m³);Material contratual
+154;PQ-L0302-8.2.1.6;R00154;Fornecimento e aplicação de fôrma (m²);R00154 - Fornecimento e aplicação de fôrma (m²);Material contratual
+155;PQ-L0303-8.2.1.7;R00155;Aplicação de Junta Jeene (m);R00155 - Aplicação de Junta Jeene (m);Material contratual
+156;PQ-L0305-8.3.1;R00156;Construção de enrocamento Argamassado - L=4,0 H=0,5;R00156 - Construção de enrocamento Argamassado - L=4.0 H=0.5;Material contratual
+157;PQ-L0307-8.4.1;R00157;Escavação, carga e transporte DMT até 0,2 Km - ( Aterro 6.1 );R00157 - Escavação - carga e transporte DMT até 0.2 Km - ( Aterro 6.1 );Material contratual
+158;PQ-L0308-8.4.2;R00158;Aplicação de Geomembrana de PEAD - 2mm (2);R00158 - Aplicação de Geomembrana de PEAD - 2mm (2);Material contratual
+159;PQ-L0309-8.4.3;R00159;"Aplicação de Geocécula PEAD de 150mm preenchida com concreto convencional fck => 20,0 Mpa, slump de 3"" a 4"". (2)";"R00159 - Aplicação de Geocécula PEAD de 150mm preenchida com concreto convencional fck => 20.0 Mpa - slump de 3"" a 4"". (2)";Material contratual
+160;PQ-L0310-8.4.4;R00160;Aplicação de manta geotêxtil não tecida em poliéster, agulhado, com resistência a tração de 21kN/m ( tipo Bidim RT 21) (2);R00160 - Aplicação de manta geotêxtil não tecida em poliéster - agulhado - com resistência a tração de 21kN/m ( tipo Bidim RT 21) (2);Material contratual
+161;PQ-L0311-8.4.5;R00161;Aplicação de Tensor Multidirecional, tipo TX603, ou Similar - Fornecimento e Instalação(2);R00161 - Aplicação de Tensor Multidirecional - tipo TX603 - ou Similar - Fornecimento e Instalação(2);Material contratual
+162;PQ-L0313-9.1;R00162;Volume de Aterro - Espalhamento;R00162 - Volume de Aterro - Espalhamento;Material contratual
+163;PQ-L0314-9.2;R00163;Volume de Corte - Escavação, carga e transporte DMT até 0,2 Km - ( Aterro 6.1 excedente);R00163 - Volume de Corte - Escavação - carga e transporte DMT até 0.2 Km - ( Aterro 6.1 excedente);Material contratual
+164;PQ-L0318-1.1.1;R00164;Mobilização de pessoal e equipamentos;R00164 - Mobilização de pessoal e equipamentos;Material contratual
+165;PQ-L0319-1.1.2;R00165;Desmobilização de pessoal e equipamentos;R00165 - Desmobilização de pessoal e equipamentos;Material contratual
+166;PQ-L0322-2.1.1;R00166;Construção de canteiro avançado nas frentes de serviço;R00166 - Construção de canteiro avançado nas frentes de serviço;Material contratual
+167;PQ-L0325-3.1.1;R00167;Manutenção de canteiro avançado nas frentes de serviço;R00167 - Manutenção de canteiro avançado nas frentes de serviço;Material contratual
+168;PQ-L0329-4.1.1.1;R00168;Supressão vegetal com destocamento de vegetação com Ø =< 15cm com remoção para a área de depósito - DMT até 1000m;R00168 - Supressão vegetal com destocamento de vegetação com Ø =< 15cm com remoção para a área de depósito - DMT até 1000m;Material contratual
+169;PQ-L0330-4.1.1.2;R00169;Momento extraordinário de transporte para remoção de vegetação com qualquer diâmetro;R00169 - Momento extraordinário de transporte para remoção de vegetação com qualquer diâmetro;Material contratual
+170;PQ-L0332-4.2.1;R00170;Supressão vegetal com destocamento de vegetação com Ø =< 15cm com remoção para a área de depósito - DMT até 1000m;R00170 - Supressão vegetal com destocamento de vegetação com Ø =< 15cm com remoção para a área de depósito - DMT até 1000m;Material contratual
+171;PQ-L0333-4.2.2;R00171;Momento extraordinário de transporte para remoção de vegetação com qualquer diâmetro;R00171 - Momento extraordinário de transporte para remoção de vegetação com qualquer diâmetro;Material contratual
+172;PQ-L0335-4.3.1;R00172;Momento extraordinário de transporte para remoção de vegetação com qualquer diâmetro;R00172 - Momento extraordinário de transporte para remoção de vegetação com qualquer diâmetro;Material contratual
+173;PQ-L0337-4.4.1;R00173;Supressão vegetal com destocamento de vegetação com Ø =< 15cm com remoção para a área de depósito - DMT até 1000m;R00173 - Supressão vegetal com destocamento de vegetação com Ø =< 15cm com remoção para a área de depósito - DMT até 1000m;Material contratual
+174;PQ-L0338-4.4.2;R00174;Momento extraordinário de transporte para remoção de vegetação com qualquer diâmetro;R00174 - Momento extraordinário de transporte para remoção de vegetação com qualquer diâmetro;Material contratual
+175;PQ-L0341-4.5.1.1;R00175;Limpeza superficial do aterro, remoção de materia organica com rapagem de até 0,30m - DMT até 2000m;R00175 - Limpeza superficial do aterro - remoção de materia organica com rapagem de até 0.30m - DMT até 2000m;Material contratual
+176;PQ-L0343-4.6.1;R00176;Limpeza superficial do aterro, remoção de materia organica com rapagem de até 0,30m - DMT até 2000m;R00176 - Limpeza superficial do aterro - remoção de materia organica com rapagem de até 0.30m - DMT até 2000m;Material contratual
+177;PQ-L0345-4.7.1;R00177;Limpeza superficial do aterro, remoção de materia organica com rapagem de até 0,30m - DMT até 2000m;R00177 - Limpeza superficial do aterro - remoção de materia organica com rapagem de até 0.30m - DMT até 2000m;Material contratual
+178;PQ-L0348-5.1.1;R00178;Escavação, carga, transporte, descarga e espalhamento de solo mole - DMT até 1000m (uso de escavadeira braço longo);R00178 - Escavação - carga - transporte - descarga e espalhamento de solo mole - DMT até 1000m (uso de escavadeira braço longo);Material contratual
+179;PQ-L0349-5.1.2;R00179;Escavação, carga, transporte, descarga, espalhamento e compactação de aterro a 98% do Proctor Normal - SOLO COMPACTADO (FUNDAÇÃO);R00179 - Escavação - carga - transporte - descarga - espalhamento e compactação de aterro a 98% do Proctor Normal - SOLO COMPACTADO (FUNDAÇÃO);Material contratual
+180;PQ-L0350-5.1.3;R00180;Momento extraordinário de transporte de solo mole - uso geral;R00180 - Momento extraordinário de transporte de solo mole - uso geral;Material contratual
+181;PQ-L0352-5.2.1;R00181;Compactação de aterro a 98% do Proctor Normal - REJEITO;R00181 - Compactação de aterro a 98% do Proctor Normal - REJEITO;Material contratual
+182;PQ-L0353-5.2.2;R00182;Compactação de aterro a 98% do Proctor Normal - SOLO DE COBERTURA;R00182 - Compactação de aterro a 98% do Proctor Normal - SOLO DE COBERTURA;Material contratual
+183;PQ-L0355-5.3.1;R00183;Compactação de aterro a 98% do Proctor Normal - SOLO COMPACTADO;R00183 - Compactação de aterro a 98% do Proctor Normal - SOLO COMPACTADO;Material contratual
+184;PQ-L0357-5.4.1;R00184;Compactação de aterro a 98% do Proctor Normal - REJEITO;R00184 - Compactação de aterro a 98% do Proctor Normal - REJEITO;Material contratual
+185;PQ-L0358-5.4.2;R00185;Compactação de aterro a 98% do Proctor Normal - SOLO DE COBERTURA;R00185 - Compactação de aterro a 98% do Proctor Normal - SOLO DE COBERTURA;Material contratual
+186;PQ-L0360-5.5.1;R00186;Escavação, carga, transporte e descarga de material de 1ª categoria - DMT até 1000m;R00186 - Escavação - carga - transporte e descarga de material de 1ª categoria - DMT até 1000m;Material contratual
+187;PQ-L0361-5.5.2;R00187;Compactação de aterro a 98% do Proctor Normal - REJEITO  (própria geometria do retaludamento geral);R00187 - Compactação de aterro a 98% do Proctor Normal - REJEITO  (própria geometria do retaludamento geral);Material contratual
+188;PQ-L0362-5.5.3;R00188;Compactação de aterro a 98% do Proctor Normal - REJEITO (a ser destinado para Talude norte ou Seção A-A');R00188 - Compactação de aterro a 98% do Proctor Normal - REJEITO (a ser destinado para Talude norte ou Seção A-A');Material contratual
+189;PQ-L0363-5.5.4;R00189;Compactação de aterro a 98% do Proctor Normal - SOLO DE COBERTURA;R00189 - Compactação de aterro a 98% do Proctor Normal - SOLO DE COBERTURA;Material contratual
+190;PQ-L0364-5.5.5;R00190;Momento extraordinário de transporte de material de 1ª categoria - uso geral;R00190 - Momento extraordinário de transporte de material de 1ª categoria - uso geral;Material contratual
+191;PQ-L0366-5.6.1;R00191;Escavação, carga, transporte e descarga de material de 1ª categoria - DMT até 1000m;R00191 - Escavação - carga - transporte e descarga de material de 1ª categoria - DMT até 1000m;Material contratual
+192;PQ-L0367-5.6.2;R00192;Compactação de aterro a 98% do Proctor Normal - REJEITO (a ser inspecionado no ato da escavação e definida a destinação de acordo com o tipo de material, podendo ser rejeito, solo ou a mistura de ambos - destimanção Talude Norte ou Seção A-A');R00192 - Compactação de aterro a 98% do Proctor Normal - REJEITO (a ser inspecionado no ato da escavação e definida a destinação de acordo com o tipo de material - podendo ser rejeito - solo ou a mistura de ambos - destimanção Talude Norte ou Seção A-A');Material contratual
+193;PQ-L0368-5.6.3;R00193;Compactação de aterro a 98% do Proctor Normal - SOLO COBERTURA;R00193 - Compactação de aterro a 98% do Proctor Normal - SOLO COBERTURA;Material contratual
+194;PQ-L0369-5.6.4;R00194;Momento extraordinário de transporte de material de 1ª categoria - uso geral;R00194 - Momento extraordinário de transporte de material de 1ª categoria - uso geral;Material contratual
+195;PQ-L0371-5.7.1;R00195;Escavação, carga, transporte e descarga de material de 2ª categoria - DMT até 1000m;R00195 - Escavação - carga - transporte e descarga de material de 2ª categoria - DMT até 1000m;Material contratual
+196;PQ-L0372-5.7.2;R00196;Compactação de aterro sem controle do grau de compactação - ATERRO ESTRADA;R00196 - Compactação de aterro sem controle do grau de compactação - ATERRO ESTRADA;Material contratual
+197;PQ-L0376-6.1.1.1;R00197;Compactação de aterro sem controle do grau de compactação - ATERRO PRAÇA DE TRABALHO;R00197 - Compactação de aterro sem controle do grau de compactação - ATERRO PRAÇA DE TRABALHO;Material contratual
+198;PQ-L0377-6.1.1.2;R00198;Escavação, carga, transporte, descarga e espalhamento de solo mole - DMT até 1000m (uso de escavadeira braço longo);R00198 - Escavação - carga - transporte - descarga e espalhamento de solo mole - DMT até 1000m (uso de escavadeira braço longo);Material contratual
+199;PQ-L0380-6.2.1.1;R00199;Transporte, descarga e estocagem, recarga, aplicação e adensamento de filtro de areia;R00199 - Transporte - descarga e estocagem - recarga - aplicação e adensamento de filtro de areia;Material contratual
+200;PQ-L0381-6.2.1.2;R00200;Transporte, descarga e estocagem, recarga e aplicação de brita nº 0;R00200 - Transporte - descarga e estocagem - recarga e aplicação de brita nº 0;Material contratual
+201;PQ-L0382-6.2.1.3;R00201;Transporte, descarga e estocagem, recarga e aplicação de brita nº 3;R00201 - Transporte - descarga e estocagem - recarga e aplicação de brita nº 3;Material contratual
+202;PQ-L0383-6.2.1.4;R00202;Trasporte, descarga e estocagem, recarga e aplicaçaõ de enrocamento;R00202 - Trasporte - descarga e estocagem - recarga e aplicaçaõ de enrocamento;Material contratual
+203;PQ-L0385-6.3.1;R00203;Transporte, descarga e estocagem, recarga, aplicação e adensamento de filtro de areia;R00203 - Transporte - descarga e estocagem - recarga - aplicação e adensamento de filtro de areia;Material contratual
+204;PQ-L0386-6.3.2;R00204;Transporte, descarga e estocagem, recarga e aplicação de brita nº 0;R00204 - Transporte - descarga e estocagem - recarga e aplicação de brita nº 0;Material contratual
+205;PQ-L0387-6.3.3;R00205;Transporte, descarga e estocagem, recarga e aplicaçaõ de enrocamento;R00205 - Transporte - descarga e estocagem - recarga e aplicaçaõ de enrocamento;Material contratual
+206;PQ-L0390-6.4.1.1;R00206;Escavação manual de cavas ou valas, material de 1ª categoria - profundidade até 1,5m;R00206 - Escavação manual de cavas ou valas - material de 1ª categoria - profundidade até 1.5m;Material contratual
+207;PQ-L0391-6.4.1.2;R00207;Instalação de canaleta meia cana d=0,6m;R00207 - Instalação de canaleta meia cana d=0.6m;Material contratual
+208;PQ-L0393-6.5.1;R00208;Escavação manual de cavas ou valas, material de 1ª categoria - profundidade até 1,5m;R00208 - Escavação manual de cavas ou valas - material de 1ª categoria - profundidade até 1.5m;Material contratual
+209;PQ-L0394-6.5.2;R00209;Instalação de canaleta meia cana d=086m;R00209 - Instalação de canaleta meia cana d=086m;Material contratual
+210;PQ-L0396-6.6.1;R00210;Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 1,50m;R00210 - Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 1.50m;Material contratual
+211;PQ-L0397-6.6.2;R00211;Regularização de fundo de cavas ou valas de fundo de cavas ou valas;R00211 - Regularização de fundo de cavas ou valas de fundo de cavas ou valas;Material contratual
+212;PQ-L0398-6.6.3;R00212;Concreto magro;R00212 - Concreto magro;Material contratual
+213;PQ-L0399-6.6.4;R00213;Concreto estrutural FCK 25 Mpa;R00213 - Concreto estrutural FCK 25 Mpa;Material contratual
+214;PQ-L0400-6.6.5;R00214;Montagem e armação de aço CA-50 (qualquer diâmetro);R00214 - Montagem e armação de aço CA-50 (qualquer diâmetro);Material contratual
+215;PQ-L0402-6.7.1;R00215;Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 1,50m;R00215 - Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 1.50m;Material contratual
+216;PQ-L0403-6.7.2;R00216;Regularização de fundo de cavas ou valas de fundo de cavas ou valas;R00216 - Regularização de fundo de cavas ou valas de fundo de cavas ou valas;Material contratual
+217;PQ-L0404-6.7.3;R00217;Concreto magro;R00217 - Concreto magro;Material contratual
+218;PQ-L0405-6.7.4;R00218;Concreto estrutural FCK 25 Mpa;R00218 - Concreto estrutural FCK 25 Mpa;Material contratual
+219;PQ-L0406-6.7.5;R00219;Montagem e armação de aço CA-50 (qualquer diâmetro);R00219 - Montagem e armação de aço CA-50 (qualquer diâmetro);Material contratual
+220;PQ-L0408-6.8.1;R00220;Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 1,50m;R00220 - Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 1.50m;Material contratual
+221;PQ-L0409-6.8.2;R00221;Regularização de fundo de cavas ou valas de fundo de cavas ou valas;R00221 - Regularização de fundo de cavas ou valas de fundo de cavas ou valas;Material contratual
+222;PQ-L0410-6.8.3;R00222;Concreto magro;R00222 - Concreto magro;Material contratual
+223;PQ-L0411-6.8.4;R00223;Concreto estrutural FCK 25 Mpa;R00223 - Concreto estrutural FCK 25 Mpa;Material contratual
+224;PQ-L0412-6.8.5;R00224;Montagem e armação de aço CA-50 (qualquer diâmetro);R00224 - Montagem e armação de aço CA-50 (qualquer diâmetro);Material contratual
+225;PQ-L0414-6.9.1.1;R00225;Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 1,50m;R00225 - Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 1.50m;Material contratual
+226;PQ-L0415-6.9.1.2;R00226;Regularização de fundo de cavas ou valas de fundo de cavas ou valas;R00226 - Regularização de fundo de cavas ou valas de fundo de cavas ou valas;Material contratual
+227;PQ-L0416-6.9.1.3;R00227;Concreto magro;R00227 - Concreto magro;Material contratual
+228;PQ-L0417-6.9.1.4;R00228;Concreto estrutural FCK 25 Mpa;R00228 - Concreto estrutural FCK 25 Mpa;Material contratual
+229;PQ-L0418-6.9.1.5;R00229;Montagem e armação de aço CA-50 (qualquer diâmetro);R00229 - Montagem e armação de aço CA-50 (qualquer diâmetro);Material contratual
+230;PQ-L0420-6.10.1;R00230;Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 1,50m;R00230 - Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 1.50m;Material contratual
+231;PQ-L0421-6.10.2;R00231;Reaterro compactado de cavas ou valas, sem controle de grau de compactação - manual;R00231 - Reaterro compactado de cavas ou valas - sem controle de grau de compactação - manual;Material contratual
+232;PQ-L0422-6.10.3;R00232;Regularização de fundo de cavas ou valas de fundo de cavas ou valas;R00232 - Regularização de fundo de cavas ou valas de fundo de cavas ou valas;Material contratual
+233;PQ-L0423-6.10.4;R00233;Concreto magro;R00233 - Concreto magro;Material contratual
+234;PQ-L0424-6.10.5;R00234;Fornecimento e Aplicação de Forma;R00234 - Fornecimento e Aplicação de Forma;Material contratual
+235;PQ-L0425-6.10.5;R00235;Concreto estrutural FCK 25 Mpa;R00235 - Concreto estrutural FCK 25 Mpa;Material contratual
+236;PQ-L0426-6.10.6;R00236;Montagem e armação de aço CA-50 (qualquer diâmetro);R00236 - Montagem e armação de aço CA-50 (qualquer diâmetro);Material contratual
+237;PQ-L0428-6.11.1;R00237;Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 1,50m;R00237 - Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 1.50m;Material contratual
+238;PQ-L0429-6.11.2;R00238;Reaterro compactado de cavas ou valas, sem controle de grau de compactação - manual;R00238 - Reaterro compactado de cavas ou valas - sem controle de grau de compactação - manual;Material contratual
+239;PQ-L0430-6.11.3;R00239;Regularização de fundo de cavas ou valas de fundo de cavas ou valas;R00239 - Regularização de fundo de cavas ou valas de fundo de cavas ou valas;Material contratual
+240;PQ-L0431-6.11.4;R00240;Concreto magro;R00240 - Concreto magro;Material contratual
+241;PQ-L0432-6.11.5;R00241;Fornecimento e Aplicação de Forma;R00241 - Fornecimento e Aplicação de Forma;Material contratual
+242;PQ-L0433-6.11.5;R00242;Concreto estrutural FCK 25 Mpa;R00242 - Concreto estrutural FCK 25 Mpa;Material contratual
+243;PQ-L0434-6.11.6;R00243;Montagem e armação de aço CA-50 (qualquer diâmetro);R00243 - Montagem e armação de aço CA-50 (qualquer diâmetro);Material contratual
+244;PQ-L0436-6.12.1;R00244;BUEIRO TIPO 7 - CIRCULAR D=0,8m - Escavação mecanizada em valas até 1,5m, instalação e reaterro.;R00244 - BUEIRO TIPO 7 - CIRCULAR D=0.8m - Escavação mecanizada em valas até 1.5m - instalação e reaterro.;Material contratual
+245;PQ-L0437-6.12.2;R00245;BUEIRO TIPO 8 - CIRCULAR D=1,5m - Escavação mecanizada em valas até 1,5m, instalação e reaterro.;R00245 - BUEIRO TIPO 8 - CIRCULAR D=1.5m - Escavação mecanizada em valas até 1.5m - instalação e reaterro.;Material contratual
+246;PQ-L0438-6.12.3;R00246;BUEIRO TIPO 8 - CELULAR DUPLO D=1,5m - Escavação mecanizada em valas até 1,5m, instalação e reaterro.;R00246 - BUEIRO TIPO 8 - CELULAR DUPLO D=1.5m - Escavação mecanizada em valas até 1.5m - instalação e reaterro.;Material contratual
+247;PQ-L0440-6.13.1;R00247;Travessia em grade metálica para trem-tipo até 45t (6 apoios), vão até 1,0;R00247 - Travessia em grade metálica para trem-tipo até 45t (6 apoios) - vão até 1.0;Material contratual
+248;PQ-L0441-6.13.2;R00248;Travessia em grade metálica para trem-tipo até 45t (6 apoios), vão entre 1,0 e 2,0m;R00248 - Travessia em grade metálica para trem-tipo até 45t (6 apoios) - vão entre 1.0 e 2.0m;Material contratual
+249;PQ-L0445-7.1.1.1;R00249;Plantio de grama por hidrossemeadura;R00249 - Plantio de grama por hidrossemeadura;Material contratual
+250;PQ-L0447-7.1.2.1;R00250;Plantio de grama por hidrossemeadura;R00250 - Plantio de grama por hidrossemeadura;Material contratual
+251;PQ-L0449-7.1.3.1;R00251;Plantio de grama por hidrossemeadura;R00251 - Plantio de grama por hidrossemeadura;Material contratual
+252;PQ-L0451-7.1.4.1;R00252;Plantio de grama por hidrossemeadura;R00252 - Plantio de grama por hidrossemeadura;Material contratual
+253;PQ-L0453-7.1.5.1;R00253;Plantio de grama por hidrossemeadura;R00253 - Plantio de grama por hidrossemeadura;Material contratual
+254;PQ-L0455-7.1.6.1;R00254;Plantio de grama por hidrossemeadura;R00254 - Plantio de grama por hidrossemeadura;Material contratual
+255;PQ-L0457-8.1;R00255;Fornecimento, instalação, operação e manutenção das bombas (SUMP);R00255 - Fornecimento - instalação - operação e manutenção das bombas (SUMP);Material contratual
+256;PQ-L0461-1.1.1;R00256;Instalações provisórias e definitivas - Mobilização de pessoal e equipamentos;R00256 - Instalações provisórias e definitivas - Mobilização de pessoal e equipamentos;Material contratual
+257;PQ-L0462-1.1.2;R00257;Instalações provisórias e definitivas - Desmobilização de pessoal e equipamentos;R00257 - Instalações provisórias e definitivas - Desmobilização de pessoal e equipamentos;Material contratual
+258;PQ-L0465-2.1.1;R00258;Construção de canteiro avançado nas frentes de serviço;R00258 - Construção de canteiro avançado nas frentes de serviço;Material contratual
+259;PQ-L0468-3.1.1;R00259;Manutenção de canteiro avançado nas frentes de serviço;R00259 - Manutenção de canteiro avançado nas frentes de serviço;Material contratual
+260;PQ-L0471-4.1.1;R00260;Limpeza do terreno - Supressão vegetal,  destocamento  e  limpeza de árvores,  arbustos, vegetação  rasteira e  entulhos com remoção para área de depósito - DMT até 2500m (REGIÃO DA PILHA RG5);R00260 - Limpeza do terreno - Supressão vegetal - destocamento  e  limpeza de árvores - arbustos - vegetação  rasteira e  entulhos com remoção para área de depósito - DMT até 2500m (REGIÃO DA PILHA RG5);Material contratual
+261;PQ-L0472-4.1.2;R00261;Limpeza do terreno - Supressão vegetal,  destocamento  e  limpeza de árvores,  arbustos, vegetação  rasteira e  entulhos com remoção para área de depósito - DMT até 2500m (SUMP);R00261 - Limpeza do terreno - Supressão vegetal - destocamento  e  limpeza de árvores - arbustos - vegetação  rasteira e  entulhos com remoção para área de depósito - DMT até 2500m (SUMP);Material contratual
+262;PQ-L0475-5.1.1;R00262;Limpeza do terreno - Escavação, carga, transporte e descarga de material de 1ª categoria - DMT até 2500m (limpeza superficial max 30cm) (SUMP);R00262 - Limpeza do terreno - Escavação - carga - transporte e descarga de material de 1ª categoria - DMT até 2500m (limpeza superficial max 30cm) (SUMP);Material contratual
+263;PQ-L0476-5.1.2;R00263;Limpeza do terreno - Escavação, carga, transporte e descarga de material de 1ª categoria - DMT até 2500m (limpeza superficial max 30cm) ( REGIÃO DA PILHA RG5);R00263 - Limpeza do terreno - Escavação - carga - transporte e descarga de material de 1ª categoria - DMT até 2500m (limpeza superficial max 30cm) ( REGIÃO DA PILHA RG5);Material contratual
+264;PQ-L0477-5.1.3;R00264;Esvação em material de 1ª categoria - DMT até 2500m;R00264 - Esvação em material de 1ª categoria - DMT até 2500m;Material contratual
+265;PQ-L0479-6.1;R00265;Aplicação de Geomembrana de PEAD 1,5mm;R00265 - Aplicação de Geomembrana de PEAD 1.5mm;Material contratual
+266;PQ-L0482-7.1.1;R00266;Aplicação de Geodreno de PEAD perfurado com diâmetro nominal de 100 cm;R00266 - Aplicação de Geodreno de PEAD perfurado com diâmetro nominal de 100 cm;Material contratual
+267;PQ-L0483-7.1.2;R00267;Aplicação de material para enrocamento;R00267 - Aplicação de material para enrocamento;Material contratual
+268;PQ-L0484-7.1.3;R00268;Aplicação transição em Brita 0 (Dreno principal);R00268 - Aplicação transição em Brita 0 (Dreno principal);Material contratual
+269;PQ-L0485-7.1.4;R00269;Aplicação de Areia (Dreno principal, auxiliar e dreno de alivo);R00269 - Aplicação de Areia (Dreno principal - auxiliar e dreno de alivo);Material contratual
+270;PQ-L0487-7.2.1;R00270;Escavação mecanizada em material de 1ª categoria - ACESSO;R00270 - Escavação mecanizada em material de 1ª categoria - ACESSO;Material contratual
+271;PQ-L0488-7.2.2;R00271;Escavação mecanizada em material de 1ª categoria - SUMP;R00271 - Escavação mecanizada em material de 1ª categoria - SUMP;Material contratual
+272;PQ-L0489-7.2.3;R00272;Regularização de fundo de cavas ou valas de fundo de cavas ou valas;R00272 - Regularização de fundo de cavas ou valas de fundo de cavas ou valas;Material contratual
+273;PQ-L0490-7.2.4;R00273;Aplicação de concreto magro;R00273 - Aplicação de concreto magro;Material contratual
+274;PQ-L0491-7.2.5;R00274;Aplicação de concreto armado FCK 25 MPa;R00274 - Aplicação de concreto armado FCK 25 MPa;Material contratual
+275;PQ-L0492-7.2.6;R00275;Aplicação de forma plana com tábua de madeira para estrutura de fundação, inclusive escoramento de estruturas verticais;R00275 - Aplicação de forma plana com tábua de madeira para estrutura de fundação - inclusive escoramento de estruturas verticais;Material contratual
+276;PQ-L0493-7.2.7;R00276;Aplicação de geomembrana de PEAD 1,5mm, fornecimento e instalação.;R00276 - Aplicação de geomembrana de PEAD 1.5mm - fornecimento e instalação.;Material contratual
+277;PQ-L0494-7.2.8;R00277;Aplicação de geotextil 200g/m2;R00277 - Aplicação de geotextil 200g/m2;Material contratual
+278;PQ-L0495-7.2.9;R00278;Aplicação de geotubo Corrugado (D = 10 cm);R00278 - Aplicação de geotubo Corrugado (D = 10 cm);Material contratual
+279;PQ-L0496-7.2.10;R00279;Sistema de Detecção de Vazamentos - Aplicação de areia;R00279 - Sistema de Detecção de Vazamentos - Aplicação de areia;Material contratual
+280;PQ-L0499-7.3.1.1;R00280;Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 3,0m;R00280 - Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 3.0m;Material contratual
+281;PQ-L0500-7.3.1.2;R00281;Regularização de fundo de cavas ou valas de fundo de cavas ou valas;R00281 - Regularização de fundo de cavas ou valas de fundo de cavas ou valas;Material contratual
+282;PQ-L0501-7.3.1.3;R00282;Aplicação de concreto magro;R00282 - Aplicação de concreto magro;Material contratual
+283;PQ-L0502-7.3.1.4;R00283;Aplicação de concreto armado FCK 25 MPa;R00283 - Aplicação de concreto armado FCK 25 MPa;Material contratual
+284;PQ-L0503-7.3.1.5;R00284;Fornecimento e aplicação de forma plana com tábua de madeira para estrutura de fundação, inclusive escoramento de estruturas verticais;R00284 - Fornecimento e aplicação de forma plana com tábua de madeira para estrutura de fundação - inclusive escoramento de estruturas verticais;Material contratual
+285;PQ-L0505-7.4.1;R00285;Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 3,0m;R00285 - Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 3.0m;Material contratual
+286;PQ-L0506-7.4.2;R00286;'Regularização de fundo de cavas ou valas de fundo de cavas ou valas;R00286 - 'Regularização de fundo de cavas ou valas de fundo de cavas ou valas;Material contratual
+287;PQ-L0507-7.4.3;R00287;Aplicação de concreto magro;R00287 - Aplicação de concreto magro;Material contratual
+288;PQ-L0508-7.4.4;R00288;Aplicação de concreto armado FCK 25 MPa;R00288 - Aplicação de concreto armado FCK 25 MPa;Material contratual
+289;PQ-L0509-7.4.5;R00289;Fornecimento e aplicação de forma plana com tábua de madeira para estrutura de fundação, inclusive escoramento de estruturas verticais;R00289 - Fornecimento e aplicação de forma plana com tábua de madeira para estrutura de fundação - inclusive escoramento de estruturas verticais;Material contratual
+290;PQ-L0510-7.4.6;R00290;Aplicação de geomembrana de PEAD 1,5mm;R00290 - Aplicação de geomembrana de PEAD 1.5mm;Material contratual
+291;PQ-L0511-7.4.7;R00291;Aplicação de geotextil 200g/m2;R00291 - Aplicação de geotextil 200g/m2;Material contratual
+292;PQ-L0512-7.4.8;R00292;Escavação manual de vala de acocoragem - 0,3x0,3m;R00292 - Escavação manual de vala de acocoragem - 0.3x0.3m;Material contratual
+293;PQ-L0513-7.4.9;R00293;Montagem e armação de aço CA-50 - 6,3 mm;R00293 - Montagem e armação de aço CA-50 - 6.3 mm;Material contratual
+294;PQ-L0514-7.4.10;R00294;Montagem e armação de aço CA-50 - 8 mm;R00294 - Montagem e armação de aço CA-50 - 8 mm;Material contratual
+295;PQ-L0515-7.4.11;R00295;Montagem e armação de aço CA-50 - 10 mm;R00295 - Montagem e armação de aço CA-50 - 10 mm;Material contratual
+296;PQ-L0516-7.4.12;R00296;Montagem e armação de aço CA-50 - 12,5 mm;R00296 - Montagem e armação de aço CA-50 - 12.5 mm;Material contratual
+297;PQ-L0517-7.4.13;R00297;Montagem e armação de aço CA-50 - 25 mm;R00297 - Montagem e armação de aço CA-50 - 25 mm;Material contratual
+298;PQ-L0518-7.4.14;R00298;Montagem e armação de aço CA-50 - 32 mm;R00298 - Montagem e armação de aço CA-50 - 32 mm;Material contratual
+299;PQ-L0519-7.4.15;R00299;Gerdal W 200 x 35,9;R00299 - Gerdal W 200 x 35.9;Material contratual
+300;PQ-L0520-7.4.16;R00300;CH. 19,00 x 201 x 600;R00300 - CH. 19.00 x 201 x 600;Material contratual
+301;PQ-L0521-7.4.17;R00301;L. 6,35 x 101,60;R00301 - L. 6.35 x 101.60;Material contratual
+302;PQ-L0522-7.4.18;R00302;BR. 6,35 x 38,10 x 140;R00302 - BR. 6.35 x 38.10 x 140;Material contratual
+303;PQ-L0523-7.4.19;R00303;CH 8,00 x 100 x COR.;R00303 - CH 8.00 x 100 x COR.;Material contratual
+304;PQ-L0524-7.4.20;R00304;BR. 7,94 x 38,10 x 190;R00304 - BR. 7.94 x 38.10 x 190;Material contratual
+305;PQ-L0528-1.1.1;R00305;Instalações provisórias e definitivas - Mobilização de pessoal e equipamentos;R00305 - Instalações provisórias e definitivas - Mobilização de pessoal e equipamentos;Material contratual
+306;PQ-L0529-1.1.2;R00306;Instalações provisórias e definitivas - Desmobilização de pessoal e equipamentos;R00306 - Instalações provisórias e definitivas - Desmobilização de pessoal e equipamentos;Material contratual
+307;PQ-L0532-2.1.1;R00307;Construção de canteiro avançado nas frentes de serviço;R00307 - Construção de canteiro avançado nas frentes de serviço;Material contratual
+308;PQ-L0535-3.1.1;R00308;Manutenção de canteiro avançado nas frentes de serviço;R00308 - Manutenção de canteiro avançado nas frentes de serviço;Material contratual
+309;PQ-L0538-4.1.1;R00309;Supressão vegetal,  destocamento  e  limpeza de árvores,  arbustos, vegetação rasteira;R00309 - Supressão vegetal - destocamento  e  limpeza de árvores - arbustos - vegetação rasteira;Material contratual
+310;PQ-L0539-4.1.2;R00310;Volume de Tratamento e Regularização;R00310 - Volume de Tratamento e Regularização;Material contratual
+311;PQ-L0540-4.1.3;R00311;Limpeza e Tratamento da Fundação - Espessura média de 1 metro.;R00311 - Limpeza e Tratamento da Fundação - Espessura média de 1 metro.;Material contratual
+312;PQ-L0542-5.1;R00312;Volume de Aterro - Argila Compactada - Camada de 1,0 metro. (3);R00312 - Volume de Aterro - Argila Compactada - Camada de 1.0 metro. (3);Material contratual
+313;PQ-L0543-5.2;R00313;Aplicação de Geomembrana de PEAD - 2mm - Texturizada nas duas faces (2);R00313 - Aplicação de Geomembrana de PEAD - 2mm - Texturizada nas duas faces (2);Material contratual
+314;PQ-L0545-6.1;R00314;Aplicação de Brita (3);R00314 - Aplicação de Brita (3);Material contratual
+315;PQ-L0546-6.2;R00315;Aplicação de Geotubo drenante, corrugado, flexível, fabricado em PEAD, Ø >= 100mm;R00315 - Aplicação de Geotubo drenante - corrugado - flexível - fabricado em PEAD - Ø >= 100mm;Material contratual
+316;PQ-L0547-6.3;R00316;Aplicação de Geotêxtil tipo Bidim RT-21² (2);R00316 - Aplicação de Geotêxtil tipo Bidim RT-21² (2);Material contratual
+317;PQ-L0548-6.4;R00317;Caixa Coletora em Concreto - 1,0 m x 1,0 m x 1,0m e=0,15m;R00317 - Caixa Coletora em Concreto - 1.0 m x 1.0 m x 1.0m e=0.15m;Material contratual
+318;PQ-L0551-7.1.1;R00318;Aplicação de Areia;R00318 - Aplicação de Areia;Material contratual
+319;PQ-L0552-7.1.2;R00319;Aplicação de Brita 0;R00319 - Aplicação de Brita 0;Material contratual
+320;PQ-L0553-7.1.3;R00320;Aplicação de Brita 3;R00320 - Aplicação de Brita 3;Material contratual
+321;PQ-L0554-7.1.4;R00321;Aplicação de Enrocamento D= 15cm;R00321 - Aplicação de Enrocamento D= 15cm;Material contratual
+322;PQ-L0557-7.2.1.1;R00322;Aço CA-50 nervurado, diâmetro - 6.3mm;R00322 - Aço CA-50 nervurado - diâmetro - 6.3mm;Material contratual
+323;PQ-L0558-7.2.1.2;R00323;Aço CA-50 nervurado, diâmetro - 8.0mm;R00323 - Aço CA-50 nervurado - diâmetro - 8.0mm;Material contratual
+324;PQ-L0559-7.2.1.3;R00324;Aço CA-50 nervurado, diâmetro - 10.0mm;R00324 - Aço CA-50 nervurado - diâmetro - 10.0mm;Material contratual
+325;PQ-L0560-7.2.1.4;R00325;Lastro - Concreto Magro - 5MPa (m³);R00325 - Lastro - Concreto Magro - 5MPa (m³);Material contratual
+326;PQ-L0561-7.2.1.5;R00326;Concreto 30 MPa (m³);R00326 - Concreto 30 MPa (m³);Material contratual
+327;PQ-L0562-7.2.1.6;R00327;Fôrma (m²);R00327 - Fôrma (m²);Material contratual
+328;PQ-L0563-7.2.1.7;R00328;Junta Fungenband Tipo O-22 (m);R00328 - Junta Fungenband Tipo O-22 (m);Material contratual
+329;PQ-L0565-7.2.2.1;R00329;Aço CA-50 nervurado, diâmetro - 6.3mm;R00329 - Aço CA-50 nervurado - diâmetro - 6.3mm;Material contratual
+330;PQ-L0566-7.2.2.2;R00330;Aço CA-50 nervurado, diâmetro - 8.0mm;R00330 - Aço CA-50 nervurado - diâmetro - 8.0mm;Material contratual
+331;PQ-L0567-7.2.2.3;R00331;Aço CA-50 nervurado, diâmetro - 10.0mm;R00331 - Aço CA-50 nervurado - diâmetro - 10.0mm;Material contratual
+332;PQ-L0568-7.2.2.5;R00332;Lastro - Concreto Magro - 5MPa (m³);R00332 - Lastro - Concreto Magro - 5MPa (m³);Material contratual
+333;PQ-L0569-7.2.2.6;R00333;Concreto 30 MPa (m³);R00333 - Concreto 30 MPa (m³);Material contratual
+334;PQ-L0570-7.2.2.7;R00334;Fôrma (m²);R00334 - Fôrma (m²);Material contratual
+335;PQ-L0571-7.2.2.8;R00335;Junta Fungenband Tipo O-22 (m);R00335 - Junta Fungenband Tipo O-22 (m);Material contratual
+336;PQ-L0573-7.2.3.1;R00336;Aço CA-50 nervurado, diâmetro - 6.3mm;R00336 - Aço CA-50 nervurado - diâmetro - 6.3mm;Material contratual
+337;PQ-L0574-7.2.3.2;R00337;Aço CA-50 nervurado, diâmetro - 8.0mm;R00337 - Aço CA-50 nervurado - diâmetro - 8.0mm;Material contratual
+338;PQ-L0575-7.2.3.3;R00338;Aço CA-50 nervurado, diâmetro - 10.0mm;R00338 - Aço CA-50 nervurado - diâmetro - 10.0mm;Material contratual
+339;PQ-L0576-7.2.3.5;R00339;Lastro - Concreto Magro - 5MPa (m³);R00339 - Lastro - Concreto Magro - 5MPa (m³);Material contratual
+340;PQ-L0577-7.2.3.6;R00340;Concreto 30 MPa (m³);R00340 - Concreto 30 MPa (m³);Material contratual
+341;PQ-L0578-7.2.3.7;R00341;Fôrma (m²);R00341 - Fôrma (m²);Material contratual
+342;PQ-L0579-7.2.3.8;R00342;Junta Fungenband Tipo O-22 (m);R00342 - Junta Fungenband Tipo O-22 (m);Material contratual
+343;PQ-L0581-7.2.4.2;R00343;Aço CA-50 nervurado, diâmetro - 8.0mm;R00343 - Aço CA-50 nervurado - diâmetro - 8.0mm;Material contratual
+344;PQ-L0582-7.2.4.3;R00344;Aço CA-50 nervurado, diâmetro - 10.0mm;R00344 - Aço CA-50 nervurado - diâmetro - 10.0mm;Material contratual
+345;PQ-L0583-7.2.4.5;R00345;Lastro - Concreto Magro - 5MPa (m³);R00345 - Lastro - Concreto Magro - 5MPa (m³);Material contratual
+346;PQ-L0584-7.2.4.6;R00346;Concreto 30 MPa (m³);R00346 - Concreto 30 MPa (m³);Material contratual
+347;PQ-L0585-7.2.4.7;R00347;Fôrma (m²);R00347 - Fôrma (m²);Material contratual
+348;PQ-L0587-7.2.5.2;R00348;Aço CA-50 nervurado, diâmetro - 8.0mm;R00348 - Aço CA-50 nervurado - diâmetro - 8.0mm;Material contratual
+349;PQ-L0588-7.2.5.3;R00349;Aço CA-50 nervurado, diâmetro - 10.0mm;R00349 - Aço CA-50 nervurado - diâmetro - 10.0mm;Material contratual
+350;PQ-L0589-7.2.5.4;R00350;Lastro - Concreto Magro - 5MPa (m³);R00350 - Lastro - Concreto Magro - 5MPa (m³);Material contratual
+351;PQ-L0590-7.2.5.5;R00351;Concreto 30 MPa (m³);R00351 - Concreto 30 MPa (m³);Material contratual
+352;PQ-L0591-7.2.5.6;R00352;Fôrma (m²);R00352 - Fôrma (m²);Material contratual
+353;PQ-L0593-7.2.6.2;R00353;Aço CA-50 nervurado, diâmetro - 8.0mm;R00353 - Aço CA-50 nervurado - diâmetro - 8.0mm;Material contratual
+354;PQ-L0594-7.2.6.3;R00354;Aço CA-50 nervurado, diâmetro - 10.0mm;R00354 - Aço CA-50 nervurado - diâmetro - 10.0mm;Material contratual
+355;PQ-L0595-7.2.6.5;R00355;Lastro - Concreto Magro - 5MPa (m³);R00355 - Lastro - Concreto Magro - 5MPa (m³);Material contratual
+356;PQ-L0596-7.2.6.6;R00356;Concreto 30 MPa (m³);R00356 - Concreto 30 MPa (m³);Material contratual
+357;PQ-L0597-7.2.6.7;R00357;Fôrma (m²);R00357 - Fôrma (m²);Material contratual
+358;PQ-L0599-7.3.1;R00358;Volume de Corte;R00358 - Volume de Corte;Material contratual
+359;PQ-L0600-7.3.2;R00359;Aplicação e Fornecimento de Geomembrana de PEAD - 2mm (2);R00359 - Aplicação e Fornecimento de Geomembrana de PEAD - 2mm (2);Material contratual
+360;PQ-L0601-7.3.3;R00360;Aplicação e Fornecimento de Geocécula preenchida com concreto (2);R00360 - Aplicação e Fornecimento de Geocécula preenchida com concreto (2);Material contratual
+361;PQ-L0602-7.3.4;R00361;Fornecimento e aplicação de concreto estrutural 30 Mpa;R00361 - Fornecimento e aplicação de concreto estrutural 30 Mpa;Material contratual
+362;PQ-L0603-7.3.4;R00362;Aplicação e Fornecimento de manta geotêxtil não tecida em poliéster, agulhado, com resistência a tração de 21kN/m ( tipo Bidim RT 21) (2);R00362 - Aplicação e Fornecimento de manta geotêxtil não tecida em poliéster - agulhado - com resistência a tração de 21kN/m ( tipo Bidim RT 21) (2);Material contratual
+363;PQ-L0604-7.3.5;R00363;Bueiro Triplo do Sistama Extravasor - ø=0.6m. e L= 25.0m.;R00363 - Bueiro Triplo do Sistama Extravasor - ø=0.6m. e L= 25.0m.;Material contratual
+364;PQ-L0605-7.3.6;R00364;Boca de Bueiro Tubular Triplo em Concreto;R00364 - Boca de Bueiro Tubular Triplo em Concreto;Material contratual
+365;PQ-L0608-8.1.1;R00365;Remoção e destinação de 03 (três) postes da linha de distribuição de energia com interferência na região das obras (desenergizados);R00365 - Remoção e destinação de 03 (três) postes da linha de distribuição de energia com interferência na região das obras (desenergizados);Material contratual
+10001;IE0203;R10001;BETONEIRA 320 L;R10001 - BETONEIRA 320 L;Trabalho
+10002;IE0704;R10002;GERADOR 100 KVA;R10002 - GERADOR 100 KVA;Trabalho
+10003;IE1232;R10003;MAQUINA DE SOLDA;R10003 - MAQUINA DE SOLDA;Trabalho
+10004;IE1506;R10004;PA CARREGADEIRA TIPO W20;R10004 - PA CARREGADEIRA TIPO W20;Trabalho
+10005;IE1706;R10005;RETRO-ESCAVADEIRA;R10005 - RETRO-ESCAVADEIRA;Trabalho
+10006;IE1715;R10006;ROLO COMPACTADOR 20 T;R10006 - ROLO COMPACTADOR 20 T;Trabalho
+10007;IE1720;R10007;ROLO COMPACTADOR 12T PC;R10007 - ROLO COMPACTADOR 12T PC;Trabalho
+10008;IE1913;R10008;CAMINHÃO PIPA 20.000 L;R10008 - CAMINHÃO PIPA 20.000 L;Trabalho
+10009;IE1933;R10009;TRATOR AGRICOLA C/ GRADE;R10009 - TRATOR AGRICOLA C/ GRADE;Trabalho
+10010;IE1946;R10010;CAMINHÃO MUNCK 30 TON;R10010 - CAMINHÃO MUNCK 30 TON;Trabalho
+10011;IE2341;R10011;EXTRUSORA;R10011 - EXTRUSORA;Trabalho
+10012;IE3320;R10012;MAQUINA DE SOLDA - ELETROFUSÃO 1200 MM;R10012 - MAQUINA DE SOLDA - ELETROFUSÃO 1200 MM;Trabalho
+10013;IE4102;R10013;GERADOR 4,5 KVA;R10013 - GERADOR 4.5 KVA;Trabalho
+10014;IE4103;R10014;GERADOR 50 KVA;R10014 - GERADOR 50 KVA;Trabalho
+10015;IE4104;R10015;GERADOR 20 KVA;R10015 - GERADOR 20 KVA;Trabalho
+10016;IE8002;R10016;TRATOR ESTEIRAS CAT D6;R10016 - TRATOR ESTEIRAS CAT D6;Trabalho
+10017;IE8404;R10017;CAMINHÃO BASCULANTE 8x4 18 M3;R10017 - CAMINHÃO BASCULANTE 8x4 18 M3;Trabalho
+10018;IE8414;R10018;CAMINHÃO BASCULANTE 6x4 16 M3;R10018 - CAMINHÃO BASCULANTE 6x4 16 M3;Trabalho
+10019;IE8914;R10019;PLACA VIBRATORIA TIPO CM-20;R10019 - PLACA VIBRATORIA TIPO CM-20;Trabalho
+10020;IE9054;R10020;MOTONIVELADORA 140 H;R10020 - MOTONIVELADORA 140 H;Trabalho
+10021;IE9099;R10021;ESCAV HID 20 T BRAÇO LONGO;R10021 - ESCAV HID 20 T BRAÇO LONGO;Trabalho
+10022;IE9903;R10022;ESCAVADEIRA HID 35 T;R10022 - ESCAVADEIRA HID 35 T;Trabalho
+10023;IE9909;R10023;ESCAV HID 35 T C/ ROMPEDOR;R10023 - ESCAV HID 35 T C/ ROMPEDOR;Trabalho
+10024;IE9912;R10024;ESCAVADEIRA HID 20 T;R10024 - ESCAVADEIRA HID 20 T;Trabalho
+10025;IH0011;R10025;PEDREIRO;R10025 - PEDREIRO;Trabalho
+10026;IH0012;R10026;ARMADOR;R10026 - ARMADOR;Trabalho
+10027;IH0034;R10027;ELETRICISTA;R10027 - ELETRICISTA;Trabalho
+10028;IH0301;R10028;CARPINTEIRO;R10028 - CARPINTEIRO;Trabalho
+10029;IH1338;R10029;OPERADOR DE MAQUINA PESADA;R10029 - OPERADOR DE MAQUINA PESADA;Trabalho
+10030;IH1901;R10030;AJUDANTE;R10030 - AJUDANTE;Trabalho
+10031;IH1902;R10031;SOLDADOR;R10031 - SOLDADOR;Trabalho
+10032;IH1906;R10032;MOTORISTA;R10032 - MOTORISTA;Trabalho
+10033;IH1908;R10033;OFICIAL;R10033 - OFICIAL;Trabalho
+10034;IH6070;R10034;MONTADOR;R10034 - MONTADOR;Trabalho

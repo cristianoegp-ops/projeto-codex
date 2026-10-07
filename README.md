@@ -1,16 +1,17 @@
-# Cronograma CCA — entrega atual V04
+# CCA — teste de compatibilidade V05
 
-**A V04 substitui V01/V02/V03 como minuta de trabalho.** As versões anteriores ficam somente como histórico e não devem ser usadas para importação. Fontes originais preservadas.
+A V03 e a V04 falharam na importação no Microsoft Project do usuário. Não utilizar para importação.
 
-- [Relatório Word V04](entregas/CCA_V04/CCA_V04.docx)
-- [Pacote completo ZIP V04](entregas/CCA_V04/CCA_V04.zip)
-- [Planilha Excel V04](entregas/CCA_V04/CCA_V04.xlsx)
-- [Cronograma XML V04](entregas/CCA_V04/CCA_V04.xml)
-- [Relatório PDF V04](entregas/CCA_V04/CCA_V04.pdf)
-- [Registro de auditoria](entregas/CCA_V04/Auditoria_V04.json)
+## Arquivos para confirmação da compatibilidade
 
-Abra o arquivo e clique em **Download raw file** (seta para baixo). Importe o XML no Microsoft Project como **novo projeto**.
+- [XML V05](entregas/CCA_V05/CCA_V05.xml)
+- [Pacote V05](entregas/CCA_V05/CCA_V05.zip)
+- [Relatório Word](entregas/CCA_V05/CCA_V05.docx)
+- [Excel e mapa de nomes](entregas/CCA_V05/CCA_V05.xlsx)
+- [Mapa de nomes CSV](entregas/CCA_V05/Mapa_Nomes_Project.csv)
 
-A revisão corrige nomes de recursos, identificadores dos campos personalizados, precisão de pesos, notas e datas gerais. Foram verificados cadastro, referências, quantidades, valores e demanda mensal. Abertura no Microsoft Project nativo ainda depende de confirmação; o programa não está disponível neste ambiente.
+Abra o arquivo e clique em Download raw file. Importe CCA_V05.xml como NOVO PROJETO. Nomes codificados como R00026 identificam os recursos; o Excel preserva as descrições completas.
 
-Esta versão permanece uma minuta mensal com 38 itens sem distribuição, capacidade e rede executiva pendentes. Não representa linha de base aprovada nem aprovação DCMA de 14 pontos.
+No XML, somente Resource/Name foi alterado em relação à V04. O título interno V04 foi mantido para isolar o teste. A abertura nativa da V05 ainda não foi confirmada; leitura com MPXJ não substitui Microsoft Project. Causa da rejeição na V04 ainda não confirmada.
+
+Modelo original reenviado pelo usuário preservado. Minuta mensal, 38 itens sem distribuição, rede e capacidade pendentes. Sem aprovação DCMA.
