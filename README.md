@@ -1,17 +1,17 @@
-# CCA — teste de compatibilidade V05
+# Cronograma CCA — revisão V06
 
-A V03 e a V04 falharam na importação no Microsoft Project do usuário. Não utilizar para importação.
+A V06 substitui as entregas anteriores como minuta de trabalho. Nomes completos conforme PQ/composições, sem prefixos R no campo Nome. Durações das atividades configuradas em **dias**.
 
-## Arquivos para confirmação da compatibilidade
+- [Cronograma XML V06](entregas/CCA_V06/CCA_V06.xml)
+- [Pacote completo V06](entregas/CCA_V06/CCA_V06.zip)
+- [Relatório Word V06](entregas/CCA_V06/CCA_V06.docx)
+- [Excel V06](entregas/CCA_V06/CCA_V06.xlsx)
+- [PDF V06](entregas/CCA_V06/CCA_V06.pdf)
 
-- [XML V05](entregas/CCA_V05/CCA_V05.xml)
-- [Pacote V05](entregas/CCA_V05/CCA_V05.zip)
-- [Relatório Word](entregas/CCA_V05/CCA_V05.docx)
-- [Excel e mapa de nomes](entregas/CCA_V05/CCA_V05.xlsx)
-- [Mapa de nomes CSV](entregas/CCA_V05/Mapa_Nomes_Project.csv)
+Clique no arquivo e em Download raw file. Abra o XML no Microsoft Project como **novo projeto**. UID, Código e pacote distinguem recursos com nomes repetidos. A duração interna ISO usa horas, mas DurationFormat=7 define exibição em dias; 480 min/dia. Trabalho HH/HM permanece em horas.
 
-Abra o arquivo e clique em Download raw file. Importe CCA_V05.xml como NOVO PROJETO. Nomes codificados como R00026 identificam os recursos; o Excel preserva as descrições completas.
+Verificados os 399 nomes documentais, 327 durações programadas em dias, custos, referências e preservação de 1.446 atribuições/7.531 registros temporais.
 
-No XML, somente Resource/Name foi alterado em relação à V04. O título interno V04 foi mantido para isolar o teste. A abertura nativa da V05 ainda não foi confirmada; leitura com MPXJ não substitui Microsoft Project. Causa da rejeição na V04 ainda não confirmada.
+A V03/V04 falharam no Project do usuário; V05 com nomes codificados foi substituída por solicitação. Abertura nativa da V06 ainda precisa ser confirmada; MPXJ não substitui esse teste. Estrutura de recursos simplificada conforme referência reenviada.
 
-Modelo original reenviado pelo usuário preservado. Minuta mensal, 38 itens sem distribuição, rede e capacidade pendentes. Sem aprovação DCMA.
+Minuta mensal: 38 itens sem janela aprovada, rede e capacidade pendentes. Sem aprovação DCMA ou linha de base. Fontes originais preservadas.

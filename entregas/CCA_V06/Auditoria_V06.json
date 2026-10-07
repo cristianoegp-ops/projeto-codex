@@ -1,0 +1,67 @@
+{
+  "versao": "V06",
+  "nomes": "Documentacao PQ/composicoes, sem nomes codificados",
+  "duracao": "DIAS - DurationFormat 7; 480 min/dia; valores internos inalterados",
+  "Resource_estrutura": "Campos compactos conforme referencia do usuario; trabalho conserva calendario base 2",
+  "campos_resource_retirados": {
+    "MaxUnits": 399,
+    "PeakUnits": 399,
+    "OverAllocated": 399,
+    "CanLevel": 399,
+    "OvertimeRateFormat": 399,
+    "CalendarUID": 365,
+    "IsGeneric": 399,
+    "IsInactive": 399,
+    "IsEnterprise": 399,
+    "IsBudget": 399
+  },
+  "Microsoft_Project_nativo": "PENDENTE",
+  "DCMA": "NAO APROVADO",
+  "verificacoes": [
+    {
+      "verificacao": "399 nomes iguais ao cadastro documental",
+      "resultado": "PASS",
+      "detalhe": ""
+    },
+    {
+      "verificacao": "607 tarefas e formato de duracao em dias",
+      "resultado": "PASS",
+      "detalhe": ""
+    },
+    {
+      "verificacao": "Datas duracoes internas e custos de tarefas preservados",
+      "resultado": "PASS",
+      "detalhe": "Duracao exibida em dias; nenhuma compressao ou extensao dos intervalos"
+    },
+    {
+      "verificacao": "1446 atribuicoes e 7531 registros temporais preservados",
+      "resultado": "PASS",
+      "detalhe": ""
+    },
+    {
+      "verificacao": "Identidades tipos unidades precos e custos dos recursos preservados",
+      "resultado": "PASS",
+      "detalhe": ""
+    },
+    {
+      "verificacao": "Somente dois calendarios base e referencias validas",
+      "resultado": "PASS",
+      "detalhe": ""
+    },
+    {
+      "verificacao": "MPXJ: nomes documentais dos 399 recursos lidos sem alteracao",
+      "resultado": "PASS",
+      "detalhe": "Comparacao individual XML/Excel"
+    },
+    {
+      "verificacao": "MPXJ: 327 duracoes planejadas lidas em dias e iguais ao Excel",
+      "resultado": "PASS",
+      "detalhe": "38 itens sem janela continuam pendentes"
+    },
+    {
+      "verificacao": "MPXJ: contagens referencias e custo integral preservados",
+      "resultado": "PASS",
+      "detalhe": "607 tarefas; 399 recursos; 1446 atribuicoes; R$ 332.796.121,115786"
+    }
+  ]
+}
