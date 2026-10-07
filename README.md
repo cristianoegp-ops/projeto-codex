@@ -1,13 +1,16 @@
-# Cronograma CCA — entregas
+# Cronograma CCA — entrega atual V04
 
-## Versão V03
+**A V04 substitui V01/V02/V03 como minuta de trabalho.** As versões anteriores ficam somente como histórico e não devem ser usadas para importação. Fontes originais preservadas.
 
-- [Relatório de consolidação em Word](entregas/CCA_V03/CCA_V03.docx)
-- [Pacote completo ZIP](entregas/CCA_V03/CCA_V03.zip)
-- [Planilha Excel](entregas/CCA_V03/CCA_V03.xlsx)
-- [Cronograma XML para importação](entregas/CCA_V03/CCA_V03.xml)
-- [Relatório PDF](entregas/CCA_V03/CCA_V03.pdf)
+- [Relatório Word V04](entregas/CCA_V04/CCA_V04.docx)
+- [Pacote completo ZIP V04](entregas/CCA_V04/CCA_V04.zip)
+- [Planilha Excel V04](entregas/CCA_V04/CCA_V04.xlsx)
+- [Cronograma XML V04](entregas/CCA_V04/CCA_V04.xml)
+- [Relatório PDF V04](entregas/CCA_V04/CCA_V04.pdf)
+- [Registro de auditoria](entregas/CCA_V04/Auditoria_V04.json)
 
-Para baixar, abra o arquivo e clique em **Download raw file** (ícone de seta para baixo).
+Abra o arquivo e clique em **Download raw file** (seta para baixo). Importe o XML no Microsoft Project como **novo projeto**.
 
-Esta versão é uma minuta de consolidação com distribuição mensal. Ainda depende de validação dos calendários, capacidades e lógica executiva; não representa aprovação DCMA de 14 pontos. O relatório Word descreve as etapas e pendências.
+A revisão corrige nomes de recursos, identificadores dos campos personalizados, precisão de pesos, notas e datas gerais. Foram verificados cadastro, referências, quantidades, valores e demanda mensal. Abertura no Microsoft Project nativo ainda depende de confirmação; o programa não está disponível neste ambiente.
+
+Esta versão permanece uma minuta mensal com 38 itens sem distribuição, capacidade e rede executiva pendentes. Não representa linha de base aprovada nem aprovação DCMA de 14 pontos.

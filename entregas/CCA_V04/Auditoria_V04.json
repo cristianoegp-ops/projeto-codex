@@ -1,0 +1,2127 @@
+{
+  "versao": "V04",
+  "Microsoft_Project_nativo": "NAO EXECUTADO - abertura pendente de confirmacao",
+  "DCMA": "NAO APROVADO - rede executiva e avaliacao completa pendentes",
+  "verificacoes": [
+    {
+      "verificacao": "UIDs unicos tarefas",
+      "resultado": "PASS",
+      "detalhe": ""
+    },
+    {
+      "verificacao": "UIDs unicos recursos",
+      "resultado": "PASS",
+      "detalhe": ""
+    },
+    {
+      "verificacao": "UIDs unicos atribuicoes",
+      "resultado": "PASS",
+      "detalhe": ""
+    },
+    {
+      "verificacao": "UIDs unicos calendarios",
+      "resultado": "PASS",
+      "detalhe": ""
+    },
+    {
+      "verificacao": "399 nomes unicos",
+      "resultado": "PASS",
+      "detalhe": ""
+    },
+    {
+      "verificacao": "Nomes sem separadores e ate 255 caracteres",
+      "resultado": "PASS",
+      "detalhe": ""
+    },
+    {
+      "verificacao": "Referencias de tarefas recursos e calendarios",
+      "resultado": "PASS",
+      "detalhe": ""
+    },
+    {
+      "verificacao": "Contagens preservadas",
+      "resultado": "PASS",
+      "detalhe": ""
+    },
+    {
+      "verificacao": "Envelopes e soma dos 7531 registros temporais",
+      "resultado": "PASS",
+      "detalhe": "Tolerancia maxima 0,500001 segundo por atribuicao: arredondamento do Work total pelo serializador"
+    },
+    {
+      "verificacao": "Orcamento base preservado",
+      "resultado": "PASS",
+      "detalhe": "332796121.115786"
+    },
+    {
+      "verificacao": "Custos das atribuicoes preservados",
+      "resultado": "PASS",
+      "detalhe": ""
+    },
+    {
+      "verificacao": "Inicio e fim geral abrangem envelopes",
+      "resultado": "PASS",
+      "detalhe": "2026-08-01T07:00:00 / 2029-09-30T16:00:00"
+    },
+    {
+      "verificacao": "Nenhuma precedencia artificial criada",
+      "resultado": "PASS",
+      "detalhe": "Rede executiva segue pendente; nao certificado DCMA"
+    },
+    {
+      "verificacao": "365 itens de cadastro material e 34 de trabalho",
+      "resultado": "PASS",
+      "detalhe": ""
+    },
+    {
+      "verificacao": "Quantidades e custos de 365 itens XML x Excel",
+      "resultado": "PASS",
+      "detalhe": ""
+    },
+    {
+      "verificacao": "Distribuido mais pendente igual ao orçamento",
+      "resultado": "PASS",
+      "detalhe": ""
+    },
+    {
+      "verificacao": "Formulas sem referencias quebradas ou vinculos externos",
+      "resultado": "PASS",
+      "detalhe": ""
+    },
+    {
+      "verificacao": "Campos personalizados com tipos e identificadores corretos",
+      "resultado": "PASS",
+      "detalhe": ""
+    },
+    {
+      "verificacao": "Textos personalizados com ate 255 caracteres",
+      "resultado": "PASS",
+      "detalhe": ""
+    },
+    {
+      "verificacao": "Leitura MPXJ: contagens e referencias",
+      "resultado": "PASS",
+      "detalhe": "607 tarefas, 399 recursos, 1446 atribuicoes"
+    },
+    {
+      "verificacao": "Leitura de chaves fornecimento custos e pesos de 365 itens",
+      "resultado": "PASS",
+      "detalhe": "Campos Text7/Text8 Number4/Number7 conferidos individualmente"
+    },
+    {
+      "verificacao": "1081 atribuicoes de Trabalho x consumo mensal Excel",
+      "resultado": "PASS",
+      "detalhe": "Tolerancia 0,500001 segundo por atribuicao; diferença total menor que 0,02 h"
+    },
+    {
+      "verificacao": "Serializacao e releitura independente",
+      "resultado": "PASS",
+      "detalhe": "Arquivo de teste separado; XML da entrega preservado"
+    }
+  ],
+  "nomes": [
+    {
+      "UID": "1",
+      "original": "Construção de canteiro de obras central em CCA Roça Grande (Caeté/MG)",
+      "importacao": "R00001 - Construção de canteiro de obras central em CCA Roça Grande (Caeté/MG)"
+    },
+    {
+      "UID": "2",
+      "original": "Construção de canteiro de obras central em CCA Pilar (Santa Bárbara/MG)",
+      "importacao": "R00002 - Construção de canteiro de obras central em CCA Pilar (Santa Bárbara/MG)"
+    },
+    {
+      "UID": "3",
+      "original": "Construção de canteiro de obras central em CPA (Itabirito/MG)",
+      "importacao": "R00003 - Construção de canteiro de obras central em CPA (Itabirito/MG)"
+    },
+    {
+      "UID": "4",
+      "original": "Manutenção de canteiro de obras central em CCA Roça Grande (Caeté/MG)",
+      "importacao": "R00004 - Manutenção de canteiro de obras central em CCA Roça Grande (Caeté/MG)"
+    },
+    {
+      "UID": "5",
+      "original": "Manutenção de canteiro de obras central em CCA Pilar (Santa Bárbara/MG)",
+      "importacao": "R00005 - Manutenção de canteiro de obras central em CCA Pilar (Santa Bárbara/MG)"
+    },
+    {
+      "UID": "6",
+      "original": "Manutenção de canteiro de obras central em CPA (Itabirito/MG)",
+      "importacao": "R00006 - Manutenção de canteiro de obras central em CPA (Itabirito/MG)"
+    },
+    {
+      "UID": "7",
+      "original": "Manutenção de acessos - Caminho de serviço - CCA Roça Grande (Caeté/MG)",
+      "importacao": "R00007 - Manutenção de acessos - Caminho de serviço - CCA Roça Grande (Caeté/MG)"
+    },
+    {
+      "UID": "8",
+      "original": "Manutenção de acessos - Caminho de serviço - CCA Pilar (Santa Bárbara/MG)",
+      "importacao": "R00008 - Manutenção de acessos - Caminho de serviço - CCA Pilar (Santa Bárbara/MG)"
+    },
+    {
+      "UID": "9",
+      "original": "Manutenção de acessos - Caminho de serviço - CPA (Itabirito/MG)",
+      "importacao": "R00009 - Manutenção de acessos - Caminho de serviço - CPA (Itabirito/MG)"
+    },
+    {
+      "UID": "10",
+      "original": "Trator de esteiras tipo D-6",
+      "importacao": "R00010 - Trator de esteiras tipo D-6"
+    },
+    {
+      "UID": "11",
+      "original": "Motoniveladora",
+      "importacao": "R00011 - Motoniveladora"
+    },
+    {
+      "UID": "12",
+      "original": "Retroescavadeira",
+      "importacao": "R00012 - Retroescavadeira"
+    },
+    {
+      "UID": "13",
+      "original": "Retroescavadeira de pequeno porte",
+      "importacao": "R00013 - Retroescavadeira de pequeno porte"
+    },
+    {
+      "UID": "14",
+      "original": "Escavadeira",
+      "importacao": "R00014 - Escavadeira"
+    },
+    {
+      "UID": "15",
+      "original": "Carregadeira",
+      "importacao": "R00015 - Carregadeira"
+    },
+    {
+      "UID": "16",
+      "original": "Caminhão traçado 6x4",
+      "importacao": "R00016 - Caminhão traçado 6x4"
+    },
+    {
+      "UID": "17",
+      "original": "Caminhão Pipa",
+      "importacao": "R00017 - Caminhão Pipa"
+    },
+    {
+      "UID": "18",
+      "original": "Rolo compactador vibratório pé de carneiro",
+      "importacao": "R00018 - Rolo compactador vibratório pé de carneiro"
+    },
+    {
+      "UID": "19",
+      "original": "Oficial",
+      "importacao": "R00019 - Oficial"
+    },
+    {
+      "UID": "20",
+      "original": "Ajudante",
+      "importacao": "R00020 - Ajudante"
+    },
+    {
+      "UID": "21",
+      "original": "Mobilização de pessoal e equipamentos",
+      "importacao": "R00021 - Mobilização de pessoal e equipamentos"
+    },
+    {
+      "UID": "22",
+      "original": "Desmobilização de pessoal e equipamentos",
+      "importacao": "R00022 - Desmobilização de pessoal e equipamentos"
+    },
+    {
+      "UID": "23",
+      "original": "Construção de canteiro avançado nas frentes de serviço",
+      "importacao": "R00023 - Construção de canteiro avançado nas frentes de serviço"
+    },
+    {
+      "UID": "24",
+      "original": "Manutenção de canteiro avançado nas frentes de serviço",
+      "importacao": "R00024 - Manutenção de canteiro avançado nas frentes de serviço"
+    },
+    {
+      "UID": "25",
+      "original": "Supressão vegetal;  destocamento  e  limpeza de árvores;  arbustos; vegetação  rasteira e  entulhos com remoção para área de depósito - DMT até 1000m",
+      "importacao": "R00025 - Supressão vegetal - destocamento  e  limpeza de árvores - arbustos - vegetação  rasteira e  entulhos com remoção para área de depósito - DMT até 1000m"
+    },
+    {
+      "UID": "26",
+      "original": "Escavação; carga e transporte; descarga e espalhamento de camada de solo superficial para a área de depósito - DMT até 1000m",
+      "importacao": "R00026 - Escavação - carga e transporte - descarga e espalhamento de camada de solo superficial para a área de depósito - DMT até 1000m"
+    },
+    {
+      "UID": "27",
+      "original": "Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 3;0m",
+      "importacao": "R00027 - Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 3.0m"
+    },
+    {
+      "UID": "28",
+      "original": "Carga; transporte; descarga e espalhamento de material de 1ª categoria em ADME - DMT até 1000m",
+      "importacao": "R00028 - Carga - transporte - descarga e espalhamento de material de 1ª categoria em ADME - DMT até 1000m"
+    },
+    {
+      "UID": "29",
+      "original": "Escavação mecanizada de cavas ou valas em material de 1ª categoria (estéril - Barragem Santa Izabel)",
+      "importacao": "R00029 - Escavação mecanizada de cavas ou valas em material de 1ª categoria (estéril - Barragem Santa Izabel)"
+    },
+    {
+      "UID": "30",
+      "original": "Carga; transporte; descarga e espalhamento de material de 1ª categoria - DMT até 1700m (Estéril)",
+      "importacao": "R00030 - Carga - transporte - descarga e espalhamento de material de 1ª categoria - DMT até 1700m (Estéril)"
+    },
+    {
+      "UID": "31",
+      "original": "Carga; transporte; descarga e espalhamento de material de 1ª categoria - DMT até 1700m (material de baixa permeabilidade a ser disponibilizado pela Jaguar)",
+      "importacao": "R00031 - Carga - transporte - descarga e espalhamento de material de 1ª categoria - DMT até 1700m (material de baixa permeabilidade a ser disponibilizado pela Jaguar)"
+    },
+    {
+      "UID": "32",
+      "original": "Carga; transporte; descarga e espalhamento de solo para revestimento vegetal - DMT até 3000 m",
+      "importacao": "R00032 - Carga - transporte - descarga e espalhamento de solo para revestimento vegetal - DMT até 3000 m"
+    },
+    {
+      "UID": "33",
+      "original": "Fornecimento; instalação; operação e manutenção de poços de bombeamento incluindo perfuração; tratamentos necesários; bomba e manutenção",
+      "importacao": "R00033 - Fornecimento - instalação - operação e manutenção de poços de bombeamento incluindo perfuração - tratamentos necesários - bomba e manutenção"
+    },
+    {
+      "UID": "34",
+      "original": "Fornecimento; instalação; operação e manutenção do bombeamento dos lagos ( 3 linhas )",
+      "importacao": "R00034 - Fornecimento - instalação - operação e manutenção do bombeamento dos lagos ( 3 linhas )"
+    },
+    {
+      "UID": "35",
+      "original": "Instalação de manta impermeável de 1;5 mm TEXTURIZADA EM AMBAS FACES",
+      "importacao": "R00035 - Instalação de manta impermeável de 1.5 mm TEXTURIZADA EM AMBAS FACES"
+    },
+    {
+      "UID": "36",
+      "original": "Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 1;5m",
+      "importacao": "R00036 - Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 1.5m"
+    },
+    {
+      "UID": "37",
+      "original": "Carga; transporte; descarga e espalhamento de enrocamento D50-0;10m  (Canal C1; Canal C2; Descidas D'água/Passagem Molhada)",
+      "importacao": "R00037 - Carga - transporte - descarga e espalhamento de enrocamento D50-0.10m  (Canal C1 - Canal C2 - Descidas D'água/Passagem Molhada)"
+    },
+    {
+      "UID": "38",
+      "original": "Carga; transporte; descarga e espalhamento de enrocamento D50-0;30m  (Proteção à jusante do reservatório)",
+      "importacao": "R00038 - Carga - transporte - descarga e espalhamento de enrocamento D50-0.30m  (Proteção à jusante do reservatório)"
+    },
+    {
+      "UID": "39",
+      "original": "Argamassa (Canal C1; Canal C2; Descidas D'água/Passagem Molhada)",
+      "importacao": "R00039 - Argamassa (Canal C1 - Canal C2 - Descidas D'água/Passagem Molhada)"
+    },
+    {
+      "UID": "40",
+      "original": "Aplicação de rolo de grama tipo esmeralda",
+      "importacao": "R00040 - Aplicação de rolo de grama tipo esmeralda"
+    },
+    {
+      "UID": "41",
+      "original": "Mobilização de pessoal e equipamentos",
+      "importacao": "R00041 - Mobilização de pessoal e equipamentos"
+    },
+    {
+      "UID": "42",
+      "original": "Desmobilização de pessoal e equipamentos",
+      "importacao": "R00042 - Desmobilização de pessoal e equipamentos"
+    },
+    {
+      "UID": "43",
+      "original": "Construção de canteiro avançado nas frentes de serviço",
+      "importacao": "R00043 - Construção de canteiro avançado nas frentes de serviço"
+    },
+    {
+      "UID": "44",
+      "original": "Manutenção de canteiro avançado nas frentes de serviço",
+      "importacao": "R00044 - Manutenção de canteiro avançado nas frentes de serviço"
+    },
+    {
+      "UID": "45",
+      "original": "Escavação; carga; transporte; descarga e espalhamento de solo mole - DMT até 1000m",
+      "importacao": "R00045 - Escavação - carga - transporte - descarga e espalhamento de solo mole - DMT até 1000m"
+    },
+    {
+      "UID": "46",
+      "original": "Espalhamento e adensamento de transição (areia)",
+      "importacao": "R00046 - Espalhamento e adensamento de transição (areia)"
+    },
+    {
+      "UID": "47",
+      "original": "Espalhamento e compactação de transição (brita nº 0)",
+      "importacao": "R00047 - Espalhamento e compactação de transição (brita nº 0)"
+    },
+    {
+      "UID": "48",
+      "original": "Espalhamento e compactação de transição (brita nº 3)",
+      "importacao": "R00048 - Espalhamento e compactação de transição (brita nº 3)"
+    },
+    {
+      "UID": "49",
+      "original": "Escavação; carga; transporte e espalhamento e Compactação de aterro (reforço em estéril) - DMT - 1;5 KM Pilha santa Isabel",
+      "importacao": "R00049 - Escavação - carga - transporte e espalhamento e Compactação de aterro (reforço em estéril) - DMT - 1.5 KM Pilha santa Isabel"
+    },
+    {
+      "UID": "50",
+      "original": "Escavação; carga; transporte e espalhamento e compactação de aterro  (reforço em enrocamento) - DMT - 1;5 KM Pilha Santa Isabel",
+      "importacao": "R00050 - Escavação - carga - transporte e espalhamento e compactação de aterro  (reforço em enrocamento) - DMT - 1.5 KM Pilha Santa Isabel"
+    },
+    {
+      "UID": "51",
+      "original": "Espalhamento e adensamento de transição (areia)",
+      "importacao": "R00051 - Espalhamento e adensamento de transição (areia)"
+    },
+    {
+      "UID": "52",
+      "original": "Espalhamento e compactação de transição (brita nº 0)",
+      "importacao": "R00052 - Espalhamento e compactação de transição (brita nº 0)"
+    },
+    {
+      "UID": "53",
+      "original": "Espalhamento e compactação de transição (brita nº 3)",
+      "importacao": "R00053 - Espalhamento e compactação de transição (brita nº 3)"
+    },
+    {
+      "UID": "54",
+      "original": "Escavação; carga; transporte e espalhamento e compactação de aterro sem controle do grau de compactação (enrocamento) - DMT 1;5 KM Pilha Santa Isabel",
+      "importacao": "R00054 - Escavação - carga - transporte e espalhamento e compactação de aterro sem controle do grau de compactação (enrocamento) - DMT 1.5 KM Pilha Santa Isabel"
+    },
+    {
+      "UID": "55",
+      "original": "Mobilização de pessoal e equipamentos",
+      "importacao": "R00055 - Mobilização de pessoal e equipamentos"
+    },
+    {
+      "UID": "56",
+      "original": "Desmobilização de pessoal e equipamentos",
+      "importacao": "R00056 - Desmobilização de pessoal e equipamentos"
+    },
+    {
+      "UID": "57",
+      "original": "Construção de canteiro avançado nas frentes de serviço",
+      "importacao": "R00057 - Construção de canteiro avançado nas frentes de serviço"
+    },
+    {
+      "UID": "58",
+      "original": "Manutenção de canteiro avançado nas frentes de serviço",
+      "importacao": "R00058 - Manutenção de canteiro avançado nas frentes de serviço"
+    },
+    {
+      "UID": "59",
+      "original": "Regularização - Aterro - Transporte; lançamento; descarregamento; espalhamento e compactação de rejeito filtrado (98% do Proctor Normal)",
+      "importacao": "R00059 - Regularização - Aterro - Transporte - lançamento - descarregamento - espalhamento e compactação de rejeito filtrado (98% do Proctor Normal)"
+    },
+    {
+      "UID": "60",
+      "original": "Regularização - Corte - Transporte; lançamento; descarregamento; espalhamento e compactação de rejeito filtrado (98% do Proctor Normal)",
+      "importacao": "R00060 - Regularização - Corte - Transporte - lançamento - descarregamento - espalhamento e compactação de rejeito filtrado (98% do Proctor Normal)"
+    },
+    {
+      "UID": "61",
+      "original": "Serviço de instalação da geomembrana PEAD 1;5 mm : geomembrana; equipamentos de solda;testes; acessórios; veículo/combustível; hospedagem e refeições.",
+      "importacao": "R00061 - Serviço de instalação da geomembrana PEAD 1.5 mm : geomembrana - equipamentos de solda - testes - acessórios - veículo/combustível - hospedagem e refeições."
+    },
+    {
+      "UID": "62",
+      "original": "Fornecimento de Cordão de solda de PEAD e=4;0 mm (peso total)",
+      "importacao": "R00062 - Fornecimento de Cordão de solda de PEAD e=4.0 mm (peso total)"
+    },
+    {
+      "UID": "63",
+      "original": "Serviço de instalação do geotêxtil não tecido 100% poliéster #400 g/m²",
+      "importacao": "R00063 - Serviço de instalação do geotêxtil não tecido 100% poliéster #400 g/m²"
+    },
+    {
+      "UID": "64",
+      "original": "Escavação; carga e transporte de solo - DMT 5;5 km",
+      "importacao": "R00064 - Escavação - carga e transporte de solo - DMT 5.5 km"
+    },
+    {
+      "UID": "65",
+      "original": "Espalhamento e nivelamento do solo orgânico",
+      "importacao": "R00065 - Espalhamento e nivelamento do solo orgânico"
+    },
+    {
+      "UID": "66",
+      "original": "Levantamento Topográfico",
+      "importacao": "R00066 - Levantamento Topográfico"
+    },
+    {
+      "UID": "67",
+      "original": "Aplicação de rolo de grama tipo esmeralda",
+      "importacao": "R00067 - Aplicação de rolo de grama tipo esmeralda"
+    },
+    {
+      "UID": "68",
+      "original": "Fornecimento de Calcário e fertilizante NPK 04-14-08 (500 a 700 kg/ha); composto orgânico (1600 a 1800 kg/ha)",
+      "importacao": "R00068 - Fornecimento de Calcário e fertilizante NPK 04-14-08 (500 a 700 kg/ha) - composto orgânico (1600 a 1800 kg/ha)"
+    },
+    {
+      "UID": "69",
+      "original": "Serviço de aplicação de corretivos de acidez do solo",
+      "importacao": "R00069 - Serviço de aplicação de corretivos de acidez do solo"
+    },
+    {
+      "UID": "70",
+      "original": "Mobilização de pessoal e equipamentos",
+      "importacao": "R00070 - Mobilização de pessoal e equipamentos"
+    },
+    {
+      "UID": "71",
+      "original": "Desmobilização de pessoal e equipamentos",
+      "importacao": "R00071 - Desmobilização de pessoal e equipamentos"
+    },
+    {
+      "UID": "72",
+      "original": "Construção de canteiro de obras",
+      "importacao": "R00072 - Construção de canteiro de obras"
+    },
+    {
+      "UID": "73",
+      "original": "Manutenção de canteiro de obras",
+      "importacao": "R00073 - Manutenção de canteiro de obras"
+    },
+    {
+      "UID": "74",
+      "original": "Regularização - Aterro - Transporte; lançamento; descarregamento; espalhamento e compactação de rejeito filtrado (98% do Proctor Normal)",
+      "importacao": "R00074 - Regularização - Aterro - Transporte - lançamento - descarregamento - espalhamento e compactação de rejeito filtrado (98% do Proctor Normal)"
+    },
+    {
+      "UID": "75",
+      "original": "Regularização - Corte - Transporte; lançamento; descarregamento; espalhamento e compactação de rejeito filtrado (98% do Proctor Normal)",
+      "importacao": "R00075 - Regularização - Corte - Transporte - lançamento - descarregamento - espalhamento e compactação de rejeito filtrado (98% do Proctor Normal)"
+    },
+    {
+      "UID": "76",
+      "original": "Serviço de instalação da geomembrana PEAD 1;5 mm : geomembrana; equipamentos de solda;testes; acessórios; veículo/combustível; hospedagem e refeições.",
+      "importacao": "R00076 - Serviço de instalação da geomembrana PEAD 1.5 mm : geomembrana - equipamentos de solda - testes - acessórios - veículo/combustível - hospedagem e refeições."
+    },
+    {
+      "UID": "77",
+      "original": "Forecimeto de cordão de solda de PEAD e=4;0 mm (peso total)",
+      "importacao": "R00077 - Forecimeto de cordão de solda de PEAD e=4.0 mm (peso total)"
+    },
+    {
+      "UID": "78",
+      "original": "Serviço de instalação do geotêxtil não tecido 100% poliéster #400 g/m²",
+      "importacao": "R00078 - Serviço de instalação do geotêxtil não tecido 100% poliéster #400 g/m²"
+    },
+    {
+      "UID": "79",
+      "original": "Escavação; carga e transporte de solo",
+      "importacao": "R00079 - Escavação - carga e transporte de solo"
+    },
+    {
+      "UID": "80",
+      "original": "Espalhamento e nivelamento do solo orgânico",
+      "importacao": "R00080 - Espalhamento e nivelamento do solo orgânico"
+    },
+    {
+      "UID": "81",
+      "original": "Levantamento Topográfico",
+      "importacao": "R00081 - Levantamento Topográfico"
+    },
+    {
+      "UID": "82",
+      "original": "Aplicação de rolo de grama tipo esmeralda",
+      "importacao": "R00082 - Aplicação de rolo de grama tipo esmeralda"
+    },
+    {
+      "UID": "83",
+      "original": "Calcário",
+      "importacao": "R00083 - Calcário"
+    },
+    {
+      "UID": "84",
+      "original": "Serviço de aplicação de corretivos de acidez",
+      "importacao": "R00084 - Serviço de aplicação de corretivos de acidez"
+    },
+    {
+      "UID": "85",
+      "original": "Mobilização de pessoal e equipamentos",
+      "importacao": "R00085 - Mobilização de pessoal e equipamentos"
+    },
+    {
+      "UID": "86",
+      "original": "Desmobilização de pessoal e equipamentos",
+      "importacao": "R00086 - Desmobilização de pessoal e equipamentos"
+    },
+    {
+      "UID": "87",
+      "original": "Mobilização de pessoal e equipamentos",
+      "importacao": "R00087 - Mobilização de pessoal e equipamentos"
+    },
+    {
+      "UID": "88",
+      "original": "Desmobilização de pessoal e equipamentos",
+      "importacao": "R00088 - Desmobilização de pessoal e equipamentos"
+    },
+    {
+      "UID": "89",
+      "original": "Manutenção de canteiro de obras",
+      "importacao": "R00089 - Manutenção de canteiro de obras"
+    },
+    {
+      "UID": "90",
+      "original": "Regularização - Aterro - Transporte; lançamento; descarregamento; espalhamento e compactação de rejeito filtrado (98% do Proctor Normal)",
+      "importacao": "R00090 - Regularização - Aterro - Transporte - lançamento - descarregamento - espalhamento e compactação de rejeito filtrado (98% do Proctor Normal)"
+    },
+    {
+      "UID": "91",
+      "original": "Regularização - Corte - Transporte; lançamento; descarregamento; espalhamento e compactação de rejeito filtrado (98% do Proctor Normal)",
+      "importacao": "R00091 - Regularização - Corte - Transporte - lançamento - descarregamento - espalhamento e compactação de rejeito filtrado (98% do Proctor Normal)"
+    },
+    {
+      "UID": "92",
+      "original": "Aplicação de Brita 0/Brita 1 (volume total)",
+      "importacao": "R00092 - Aplicação de Brita 0/Brita 1 (volume total)"
+    },
+    {
+      "UID": "93",
+      "original": "Instalação de Geodrenos Verticais - Núcleo em PEAD/Filtro Não Tecido de Polipropileno (comprimento total)",
+      "importacao": "R00093 - Instalação de Geodrenos Verticais - Núcleo em PEAD/Filtro Não Tecido de Polipropileno (comprimento total)"
+    },
+    {
+      "UID": "94",
+      "original": "Serviço de instalação e costura do geotêxtil não tecido 100% polipropileno #400 g/m²",
+      "importacao": "R00094 - Serviço de instalação e costura do geotêxtil não tecido 100% polipropileno #400 g/m²"
+    },
+    {
+      "UID": "95",
+      "original": "Serviço de instalação e costura do geotêxtil não tecido 100% polipropileno #400 g/m²",
+      "importacao": "R00095 - Serviço de instalação e costura do geotêxtil não tecido 100% polipropileno #400 g/m²"
+    },
+    {
+      "UID": "96",
+      "original": "Serviço de instalação do geotêxtil não tecido 100% poliéster #400 g/m²",
+      "importacao": "R00096 - Serviço de instalação do geotêxtil não tecido 100% poliéster #400 g/m²"
+    },
+    {
+      "UID": "97",
+      "original": "Serviço de instalação da geomembrana PEAD 1;5 mm : geomembrana; equipamentos de solda;testes; acessórios; veículo/combustível; hospedagem e refeições.",
+      "importacao": "R00097 - Serviço de instalação da geomembrana PEAD 1.5 mm : geomembrana - equipamentos de solda - testes - acessórios - veículo/combustível - hospedagem e refeições."
+    },
+    {
+      "UID": "98",
+      "original": "Forecimeto de cordão de solda de PEAD e=4;0 mm (peso total)",
+      "importacao": "R00098 - Forecimeto de cordão de solda de PEAD e=4.0 mm (peso total)"
+    },
+    {
+      "UID": "99",
+      "original": "Escavação; carga e transporte de solo",
+      "importacao": "R00099 - Escavação - carga e transporte de solo"
+    },
+    {
+      "UID": "100",
+      "original": "Espalhamento e nivelamento do solo orgânico",
+      "importacao": "R00100 - Espalhamento e nivelamento do solo orgânico"
+    },
+    {
+      "UID": "101",
+      "original": "Levantamento Topográfico",
+      "importacao": "R00101 - Levantamento Topográfico"
+    },
+    {
+      "UID": "102",
+      "original": "Fornecimento e aplicação de rolo de grama tipo esmeralda",
+      "importacao": "R00102 - Fornecimento e aplicação de rolo de grama tipo esmeralda"
+    },
+    {
+      "UID": "103",
+      "original": "Fornecimento e aplicação de Calcário",
+      "importacao": "R00103 - Fornecimento e aplicação de Calcário"
+    },
+    {
+      "UID": "104",
+      "original": "Serviço de aplicação de corretivos de acidez",
+      "importacao": "R00104 - Serviço de aplicação de corretivos de acidez"
+    },
+    {
+      "UID": "105",
+      "original": "Fornecimento; instalação; operação e manutenção das bombas",
+      "importacao": "R00105 - Fornecimento - instalação - operação e manutenção das bombas"
+    },
+    {
+      "UID": "106",
+      "original": "Fornecimento e instalação de tubos PEAD 600 mm (com área lateral de furos maior que 0;38m²)",
+      "importacao": "R00106 - Fornecimento e instalação de tubos PEAD 600 mm (com área lateral de furos maior que 0.38m²)"
+    },
+    {
+      "UID": "107",
+      "original": "Mobilização de pessoal e equipamentos",
+      "importacao": "R00107 - Mobilização de pessoal e equipamentos"
+    },
+    {
+      "UID": "108",
+      "original": "Desmobilização de pessoal e equipamentos",
+      "importacao": "R00108 - Desmobilização de pessoal e equipamentos"
+    },
+    {
+      "UID": "109",
+      "original": "Construção de canteiro avançado nas frentes de serviço",
+      "importacao": "R00109 - Construção de canteiro avançado nas frentes de serviço"
+    },
+    {
+      "UID": "110",
+      "original": "Manutenção de canteiro avançado nas frentes de serviço",
+      "importacao": "R00110 - Manutenção de canteiro avançado nas frentes de serviço"
+    },
+    {
+      "UID": "111",
+      "original": "Supressão vegetal;  destocamento  e  limpeza de árvores;  arbustos; vegetação  rasteira e  entulhos com remoção para área de depósito (1) - DMT 1;5 KM",
+      "importacao": "R00111 - Supressão vegetal - destocamento  e  limpeza de árvores - arbustos - vegetação  rasteira e  entulhos com remoção para área de depósito (1) - DMT 1.5 KM"
+    },
+    {
+      "UID": "112",
+      "original": "Espalhamento e compactação controlada proctor normal 98 %",
+      "importacao": "R00112 - Espalhamento e compactação controlada proctor normal 98 %"
+    },
+    {
+      "UID": "113",
+      "original": "Aplicação de Areia",
+      "importacao": "R00113 - Aplicação de Areia"
+    },
+    {
+      "UID": "114",
+      "original": "Aplicação de Brita 0",
+      "importacao": "R00114 - Aplicação de Brita 0"
+    },
+    {
+      "UID": "115",
+      "original": "Aplicação de Brita 3",
+      "importacao": "R00115 - Aplicação de Brita 3"
+    },
+    {
+      "UID": "116",
+      "original": "Aplicação de Enrocamento D= 15cm",
+      "importacao": "R00116 - Aplicação de Enrocamento D= 15cm"
+    },
+    {
+      "UID": "117",
+      "original": "Montagem e aplicação de aço CA-50 nervurado; diâmetro - 6.3mm",
+      "importacao": "R00117 - Montagem e aplicação de aço CA-50 nervurado - diâmetro - 6.3mm"
+    },
+    {
+      "UID": "118",
+      "original": "Montagem e aplicação de aço CA-50 nervurado; diâmetro - 8.0mm",
+      "importacao": "R00118 - Montagem e aplicação de aço CA-50 nervurado - diâmetro - 8.0mm"
+    },
+    {
+      "UID": "119",
+      "original": "Montagem e aplicação de aço CA-50 nervurado; diâmetro - 10.0mm",
+      "importacao": "R00119 - Montagem e aplicação de aço CA-50 nervurado - diâmetro - 10.0mm"
+    },
+    {
+      "UID": "120",
+      "original": "Aplicação de lastro - Concreto Magro - 5MPa (m³)",
+      "importacao": "R00120 - Aplicação de lastro - Concreto Magro - 5MPa (m³)"
+    },
+    {
+      "UID": "121",
+      "original": "Aplicação de concreto 30 MPa (m³)",
+      "importacao": "R00121 - Aplicação de concreto 30 MPa (m³)"
+    },
+    {
+      "UID": "122",
+      "original": "Fornecimento e aplicação de fôrma (m²)",
+      "importacao": "R00122 - Fornecimento e aplicação de fôrma (m²)"
+    },
+    {
+      "UID": "123",
+      "original": "Aplicação de Junta Jeene (m)",
+      "importacao": "R00123 - Aplicação de Junta Jeene (m)"
+    },
+    {
+      "UID": "124",
+      "original": "Construção de enrocamento Argamassado - L=4;0 H=0;5",
+      "importacao": "R00124 - Construção de enrocamento Argamassado - L=4.0 H=0.5"
+    },
+    {
+      "UID": "125",
+      "original": "Escavação; carga e transporte DMT até 10 Km",
+      "importacao": "R00125 - Escavação - carga e transporte DMT até 10 Km"
+    },
+    {
+      "UID": "126",
+      "original": "Aplicação de Geomembrana de PEAD - 2mm (2)",
+      "importacao": "R00126 - Aplicação de Geomembrana de PEAD - 2mm (2)"
+    },
+    {
+      "UID": "127",
+      "original": "Aplicação de Geocécula PEAD de 150mm preenchida com concreto convencional fck => 20;0 Mpa; slump de 3\" a 4\". (2)",
+      "importacao": "R00127 - Aplicação de Geocécula PEAD de 150mm preenchida com concreto convencional fck => 20.0 Mpa - slump de 3\" a 4\". (2)"
+    },
+    {
+      "UID": "128",
+      "original": "Aplicação de manta geotêxtil não tecida em poliéster; agulhado; com resistência a tração de 21kN/m ( tipo Bidim RT 21) (2)",
+      "importacao": "R00128 - Aplicação de manta geotêxtil não tecida em poliéster - agulhado - com resistência a tração de 21kN/m ( tipo Bidim RT 21) (2)"
+    },
+    {
+      "UID": "129",
+      "original": "Aplicação de Tensor Multidirecional; tipo TX603; ou Similar - Fornecimento e Instalação(2)",
+      "importacao": "R00129 - Aplicação de Tensor Multidirecional - tipo TX603 - ou Similar - Fornecimento e Instalação(2)"
+    },
+    {
+      "UID": "130",
+      "original": "Cobertura com Solo Orgânico (espessura de 0;10 m) (3)",
+      "importacao": "R00130 - Cobertura com Solo Orgânico (espessura de 0.10 m) (3)"
+    },
+    {
+      "UID": "131",
+      "original": "Aplicação de Geomanta MacMat R (2)",
+      "importacao": "R00131 - Aplicação de Geomanta MacMat R (2)"
+    },
+    {
+      "UID": "132",
+      "original": "Aplicação de Argila compactada (espessura de 0;30m) (3)",
+      "importacao": "R00132 - Aplicação de Argila compactada (espessura de 0.30m) (3)"
+    },
+    {
+      "UID": "133",
+      "original": "Mobilização de pessoal e equipamentos",
+      "importacao": "R00133 - Mobilização de pessoal e equipamentos"
+    },
+    {
+      "UID": "134",
+      "original": "Desmobilização de pessoal e equipamentos",
+      "importacao": "R00134 - Desmobilização de pessoal e equipamentos"
+    },
+    {
+      "UID": "135",
+      "original": "Construção de canteiro avançado nas frentes de serviço",
+      "importacao": "R00135 - Construção de canteiro avançado nas frentes de serviço"
+    },
+    {
+      "UID": "136",
+      "original": "Manutenção de canteiro avançado nas frentes de serviço",
+      "importacao": "R00136 - Manutenção de canteiro avançado nas frentes de serviço"
+    },
+    {
+      "UID": "137",
+      "original": "Supressão vegetal;  destocamento  e  limpeza de árvores;  arbustos; vegetação  rasteira e  entulhos com remoção para área de depósito (1) - DMT 1;5 KM",
+      "importacao": "R00137 - Supressão vegetal - destocamento  e  limpeza de árvores - arbustos - vegetação  rasteira e  entulhos com remoção para área de depósito (1) - DMT 1.5 KM"
+    },
+    {
+      "UID": "138",
+      "original": "Escavação e tratamento da fundação - Remoção do Coluvio -  Escavação e transporte considerando espessura de 10;00 m - DMT até 0;6 Km - cava do Louro (1)",
+      "importacao": "R00138 - Escavação e tratamento da fundação - Remoção do Coluvio -  Escavação e transporte considerando espessura de 10.00 m - DMT até 0.6 Km - cava do Louro (1)"
+    },
+    {
+      "UID": "139",
+      "original": "Volume de Aterro - Argila Compactada - Camada de 1;0 metro. (3)",
+      "importacao": "R00139 - Volume de Aterro - Argila Compactada - Camada de 1.0 metro. (3)"
+    },
+    {
+      "UID": "140",
+      "original": "Aplicação de Geomembrana de PEAD - 2mm - Texturizada nas duas faces (2)",
+      "importacao": "R00140 - Aplicação de Geomembrana de PEAD - 2mm - Texturizada nas duas faces (2)"
+    },
+    {
+      "UID": "141",
+      "original": "Aplicação de Brita (3)",
+      "importacao": "R00141 - Aplicação de Brita (3)"
+    },
+    {
+      "UID": "142",
+      "original": "Aplicação  de Geotubo drenante; corrugado; flexível; fabricado em PEAD; Ø >= 100mm",
+      "importacao": "R00142 - Aplicação  de Geotubo drenante - corrugado - flexível - fabricado em PEAD - Ø >= 100mm"
+    },
+    {
+      "UID": "143",
+      "original": "Aplicação de Geotêxtil tipo Bidim RT-21² (2)",
+      "importacao": "R00143 - Aplicação de Geotêxtil tipo Bidim RT-21² (2)"
+    },
+    {
+      "UID": "144",
+      "original": "Caixa Coletora em Concreto - 1;0 m x 1;0 m x 1;0m e=0;15m",
+      "importacao": "R00144 - Caixa Coletora em Concreto - 1.0 m x 1.0 m x 1.0m e=0.15m"
+    },
+    {
+      "UID": "145",
+      "original": "Aplicação de Areia",
+      "importacao": "R00145 - Aplicação de Areia"
+    },
+    {
+      "UID": "146",
+      "original": "Aplicação de Brita 0",
+      "importacao": "R00146 - Aplicação de Brita 0"
+    },
+    {
+      "UID": "147",
+      "original": "Aplicação de Brita 3",
+      "importacao": "R00147 - Aplicação de Brita 3"
+    },
+    {
+      "UID": "148",
+      "original": "Aplicação de Enrocamento D= 15cm",
+      "importacao": "R00148 - Aplicação de Enrocamento D= 15cm"
+    },
+    {
+      "UID": "149",
+      "original": "Montagem e aplicação de aço CA-50 nervurado; diâmetro - 6.3mm",
+      "importacao": "R00149 - Montagem e aplicação de aço CA-50 nervurado - diâmetro - 6.3mm"
+    },
+    {
+      "UID": "150",
+      "original": "Montagem e aplicação de aço CA-50 nervurado; diâmetro - 8.0mm",
+      "importacao": "R00150 - Montagem e aplicação de aço CA-50 nervurado - diâmetro - 8.0mm"
+    },
+    {
+      "UID": "151",
+      "original": "Montagem e aplicação de aço CA-50 nervurado; diâmetro - 10.0mm",
+      "importacao": "R00151 - Montagem e aplicação de aço CA-50 nervurado - diâmetro - 10.0mm"
+    },
+    {
+      "UID": "152",
+      "original": "Aplicação de lastro - Concreto Magro - 5MPa (m³)",
+      "importacao": "R00152 - Aplicação de lastro - Concreto Magro - 5MPa (m³)"
+    },
+    {
+      "UID": "153",
+      "original": "Aplicação de concreto 30 MPa (m³)",
+      "importacao": "R00153 - Aplicação de concreto 30 MPa (m³)"
+    },
+    {
+      "UID": "154",
+      "original": "Fornecimento e aplicação de fôrma (m²)",
+      "importacao": "R00154 - Fornecimento e aplicação de fôrma (m²)"
+    },
+    {
+      "UID": "155",
+      "original": "Aplicação de Junta Jeene (m)",
+      "importacao": "R00155 - Aplicação de Junta Jeene (m)"
+    },
+    {
+      "UID": "156",
+      "original": "Construção de enrocamento Argamassado - L=4;0 H=0;5",
+      "importacao": "R00156 - Construção de enrocamento Argamassado - L=4.0 H=0.5"
+    },
+    {
+      "UID": "157",
+      "original": "Escavação; carga e transporte DMT até 0;2 Km - ( Aterro 6.1 )",
+      "importacao": "R00157 - Escavação - carga e transporte DMT até 0.2 Km - ( Aterro 6.1 )"
+    },
+    {
+      "UID": "158",
+      "original": "Aplicação de Geomembrana de PEAD - 2mm (2)",
+      "importacao": "R00158 - Aplicação de Geomembrana de PEAD - 2mm (2)"
+    },
+    {
+      "UID": "159",
+      "original": "Aplicação de Geocécula PEAD de 150mm preenchida com concreto convencional fck => 20;0 Mpa; slump de 3\" a 4\". (2)",
+      "importacao": "R00159 - Aplicação de Geocécula PEAD de 150mm preenchida com concreto convencional fck => 20.0 Mpa - slump de 3\" a 4\". (2)"
+    },
+    {
+      "UID": "160",
+      "original": "Aplicação de manta geotêxtil não tecida em poliéster; agulhado; com resistência a tração de 21kN/m ( tipo Bidim RT 21) (2)",
+      "importacao": "R00160 - Aplicação de manta geotêxtil não tecida em poliéster - agulhado - com resistência a tração de 21kN/m ( tipo Bidim RT 21) (2)"
+    },
+    {
+      "UID": "161",
+      "original": "Aplicação de Tensor Multidirecional; tipo TX603; ou Similar - Fornecimento e Instalação(2)",
+      "importacao": "R00161 - Aplicação de Tensor Multidirecional - tipo TX603 - ou Similar - Fornecimento e Instalação(2)"
+    },
+    {
+      "UID": "162",
+      "original": "Volume de Aterro - Espalhamento",
+      "importacao": "R00162 - Volume de Aterro - Espalhamento"
+    },
+    {
+      "UID": "163",
+      "original": "Volume de Corte - Escavação; carga e transporte DMT até 0;2 Km - ( Aterro 6.1 excedente)",
+      "importacao": "R00163 - Volume de Corte - Escavação - carga e transporte DMT até 0.2 Km - ( Aterro 6.1 excedente)"
+    },
+    {
+      "UID": "164",
+      "original": "Mobilização de pessoal e equipamentos",
+      "importacao": "R00164 - Mobilização de pessoal e equipamentos"
+    },
+    {
+      "UID": "165",
+      "original": "Desmobilização de pessoal e equipamentos",
+      "importacao": "R00165 - Desmobilização de pessoal e equipamentos"
+    },
+    {
+      "UID": "166",
+      "original": "Construção de canteiro avançado nas frentes de serviço",
+      "importacao": "R00166 - Construção de canteiro avançado nas frentes de serviço"
+    },
+    {
+      "UID": "167",
+      "original": "Manutenção de canteiro avançado nas frentes de serviço",
+      "importacao": "R00167 - Manutenção de canteiro avançado nas frentes de serviço"
+    },
+    {
+      "UID": "168",
+      "original": "Supressão vegetal com destocamento de vegetação com Ø =< 15cm com remoção para a área de depósito - DMT até 1000m",
+      "importacao": "R00168 - Supressão vegetal com destocamento de vegetação com Ø =< 15cm com remoção para a área de depósito - DMT até 1000m"
+    },
+    {
+      "UID": "169",
+      "original": "Momento extraordinário de transporte para remoção de vegetação com qualquer diâmetro",
+      "importacao": "R00169 - Momento extraordinário de transporte para remoção de vegetação com qualquer diâmetro"
+    },
+    {
+      "UID": "170",
+      "original": "Supressão vegetal com destocamento de vegetação com Ø =< 15cm com remoção para a área de depósito - DMT até 1000m",
+      "importacao": "R00170 - Supressão vegetal com destocamento de vegetação com Ø =< 15cm com remoção para a área de depósito - DMT até 1000m"
+    },
+    {
+      "UID": "171",
+      "original": "Momento extraordinário de transporte para remoção de vegetação com qualquer diâmetro",
+      "importacao": "R00171 - Momento extraordinário de transporte para remoção de vegetação com qualquer diâmetro"
+    },
+    {
+      "UID": "172",
+      "original": "Momento extraordinário de transporte para remoção de vegetação com qualquer diâmetro",
+      "importacao": "R00172 - Momento extraordinário de transporte para remoção de vegetação com qualquer diâmetro"
+    },
+    {
+      "UID": "173",
+      "original": "Supressão vegetal com destocamento de vegetação com Ø =< 15cm com remoção para a área de depósito - DMT até 1000m",
+      "importacao": "R00173 - Supressão vegetal com destocamento de vegetação com Ø =< 15cm com remoção para a área de depósito - DMT até 1000m"
+    },
+    {
+      "UID": "174",
+      "original": "Momento extraordinário de transporte para remoção de vegetação com qualquer diâmetro",
+      "importacao": "R00174 - Momento extraordinário de transporte para remoção de vegetação com qualquer diâmetro"
+    },
+    {
+      "UID": "175",
+      "original": "Limpeza superficial do aterro; remoção de materia organica com rapagem de até 0;30m - DMT até 2000m",
+      "importacao": "R00175 - Limpeza superficial do aterro - remoção de materia organica com rapagem de até 0.30m - DMT até 2000m"
+    },
+    {
+      "UID": "176",
+      "original": "Limpeza superficial do aterro; remoção de materia organica com rapagem de até 0;30m - DMT até 2000m",
+      "importacao": "R00176 - Limpeza superficial do aterro - remoção de materia organica com rapagem de até 0.30m - DMT até 2000m"
+    },
+    {
+      "UID": "177",
+      "original": "Limpeza superficial do aterro; remoção de materia organica com rapagem de até 0;30m - DMT até 2000m",
+      "importacao": "R00177 - Limpeza superficial do aterro - remoção de materia organica com rapagem de até 0.30m - DMT até 2000m"
+    },
+    {
+      "UID": "178",
+      "original": "Escavação; carga; transporte; descarga e espalhamento de solo mole - DMT até 1000m (uso de escavadeira braço longo)",
+      "importacao": "R00178 - Escavação - carga - transporte - descarga e espalhamento de solo mole - DMT até 1000m (uso de escavadeira braço longo)"
+    },
+    {
+      "UID": "179",
+      "original": "Escavação; carga; transporte; descarga; espalhamento e compactação de aterro a 98% do Proctor Normal - SOLO COMPACTADO (FUNDAÇÃO)",
+      "importacao": "R00179 - Escavação - carga - transporte - descarga - espalhamento e compactação de aterro a 98% do Proctor Normal - SOLO COMPACTADO (FUNDAÇÃO)"
+    },
+    {
+      "UID": "180",
+      "original": "Momento extraordinário de transporte de solo mole - uso geral",
+      "importacao": "R00180 - Momento extraordinário de transporte de solo mole - uso geral"
+    },
+    {
+      "UID": "181",
+      "original": "Compactação de aterro a 98% do Proctor Normal - REJEITO",
+      "importacao": "R00181 - Compactação de aterro a 98% do Proctor Normal - REJEITO"
+    },
+    {
+      "UID": "182",
+      "original": "Compactação de aterro a 98% do Proctor Normal - SOLO DE COBERTURA",
+      "importacao": "R00182 - Compactação de aterro a 98% do Proctor Normal - SOLO DE COBERTURA"
+    },
+    {
+      "UID": "183",
+      "original": "Compactação de aterro a 98% do Proctor Normal - SOLO COMPACTADO",
+      "importacao": "R00183 - Compactação de aterro a 98% do Proctor Normal - SOLO COMPACTADO"
+    },
+    {
+      "UID": "184",
+      "original": "Compactação de aterro a 98% do Proctor Normal - REJEITO",
+      "importacao": "R00184 - Compactação de aterro a 98% do Proctor Normal - REJEITO"
+    },
+    {
+      "UID": "185",
+      "original": "Compactação de aterro a 98% do Proctor Normal - SOLO DE COBERTURA",
+      "importacao": "R00185 - Compactação de aterro a 98% do Proctor Normal - SOLO DE COBERTURA"
+    },
+    {
+      "UID": "186",
+      "original": "Escavação; carga; transporte e descarga de material de 1ª categoria - DMT até 1000m",
+      "importacao": "R00186 - Escavação - carga - transporte e descarga de material de 1ª categoria - DMT até 1000m"
+    },
+    {
+      "UID": "187",
+      "original": "Compactação de aterro a 98% do Proctor Normal - REJEITO  (própria geometria do retaludamento geral)",
+      "importacao": "R00187 - Compactação de aterro a 98% do Proctor Normal - REJEITO  (própria geometria do retaludamento geral)"
+    },
+    {
+      "UID": "188",
+      "original": "Compactação de aterro a 98% do Proctor Normal - REJEITO (a ser destinado para Talude norte ou Seção A-A')",
+      "importacao": "R00188 - Compactação de aterro a 98% do Proctor Normal - REJEITO (a ser destinado para Talude norte ou Seção A-A')"
+    },
+    {
+      "UID": "189",
+      "original": "Compactação de aterro a 98% do Proctor Normal - SOLO DE COBERTURA",
+      "importacao": "R00189 - Compactação de aterro a 98% do Proctor Normal - SOLO DE COBERTURA"
+    },
+    {
+      "UID": "190",
+      "original": "Momento extraordinário de transporte de material de 1ª categoria - uso geral",
+      "importacao": "R00190 - Momento extraordinário de transporte de material de 1ª categoria - uso geral"
+    },
+    {
+      "UID": "191",
+      "original": "Escavação; carga; transporte e descarga de material de 1ª categoria - DMT até 1000m",
+      "importacao": "R00191 - Escavação - carga - transporte e descarga de material de 1ª categoria - DMT até 1000m"
+    },
+    {
+      "UID": "192",
+      "original": "Compactação de aterro a 98% do Proctor Normal - REJEITO (a ser inspecionado no ato da escavação e definida a destinação de acordo com o tipo de material; podendo ser rejeito; solo ou a mistura de ambos - destimanção Talude Norte ou Seção A-A')",
+      "importacao": "R00192 - Compactação de aterro a 98% do Proctor Normal - REJEITO (a ser inspecionado no ato da escavação e definida a destinação de acordo com o tipo de material - podendo ser rejeito - solo ou a mistura de ambos - destimanção Talude Norte ou Seção A-A')"
+    },
+    {
+      "UID": "193",
+      "original": "Compactação de aterro a 98% do Proctor Normal - SOLO COBERTURA",
+      "importacao": "R00193 - Compactação de aterro a 98% do Proctor Normal - SOLO COBERTURA"
+    },
+    {
+      "UID": "194",
+      "original": "Momento extraordinário de transporte de material de 1ª categoria - uso geral",
+      "importacao": "R00194 - Momento extraordinário de transporte de material de 1ª categoria - uso geral"
+    },
+    {
+      "UID": "195",
+      "original": "Escavação; carga; transporte e descarga de material de 2ª categoria - DMT até 1000m",
+      "importacao": "R00195 - Escavação - carga - transporte e descarga de material de 2ª categoria - DMT até 1000m"
+    },
+    {
+      "UID": "196",
+      "original": "Compactação de aterro sem controle do grau de compactação - ATERRO ESTRADA",
+      "importacao": "R00196 - Compactação de aterro sem controle do grau de compactação - ATERRO ESTRADA"
+    },
+    {
+      "UID": "197",
+      "original": "Compactação de aterro sem controle do grau de compactação - ATERRO PRAÇA DE TRABALHO",
+      "importacao": "R00197 - Compactação de aterro sem controle do grau de compactação - ATERRO PRAÇA DE TRABALHO"
+    },
+    {
+      "UID": "198",
+      "original": "Escavação; carga; transporte; descarga e espalhamento de solo mole - DMT até 1000m (uso de escavadeira braço longo)",
+      "importacao": "R00198 - Escavação - carga - transporte - descarga e espalhamento de solo mole - DMT até 1000m (uso de escavadeira braço longo)"
+    },
+    {
+      "UID": "199",
+      "original": "Transporte; descarga e estocagem; recarga; aplicação e adensamento de filtro de areia",
+      "importacao": "R00199 - Transporte - descarga e estocagem - recarga - aplicação e adensamento de filtro de areia"
+    },
+    {
+      "UID": "200",
+      "original": "Transporte; descarga e estocagem; recarga e aplicação de brita nº 0",
+      "importacao": "R00200 - Transporte - descarga e estocagem - recarga e aplicação de brita nº 0"
+    },
+    {
+      "UID": "201",
+      "original": "Transporte; descarga e estocagem; recarga e aplicação de brita nº 3",
+      "importacao": "R00201 - Transporte - descarga e estocagem - recarga e aplicação de brita nº 3"
+    },
+    {
+      "UID": "202",
+      "original": "Trasporte; descarga e estocagem; recarga e aplicaçaõ de enrocamento",
+      "importacao": "R00202 - Trasporte - descarga e estocagem - recarga e aplicaçaõ de enrocamento"
+    },
+    {
+      "UID": "203",
+      "original": "Transporte; descarga e estocagem; recarga; aplicação e adensamento de filtro de areia",
+      "importacao": "R00203 - Transporte - descarga e estocagem - recarga - aplicação e adensamento de filtro de areia"
+    },
+    {
+      "UID": "204",
+      "original": "Transporte; descarga e estocagem; recarga e aplicação de brita nº 0",
+      "importacao": "R00204 - Transporte - descarga e estocagem - recarga e aplicação de brita nº 0"
+    },
+    {
+      "UID": "205",
+      "original": "Transporte; descarga e estocagem; recarga e aplicaçaõ de enrocamento",
+      "importacao": "R00205 - Transporte - descarga e estocagem - recarga e aplicaçaõ de enrocamento"
+    },
+    {
+      "UID": "206",
+      "original": "Escavação manual de cavas ou valas; material de 1ª categoria - profundidade até 1;5m",
+      "importacao": "R00206 - Escavação manual de cavas ou valas - material de 1ª categoria - profundidade até 1.5m"
+    },
+    {
+      "UID": "207",
+      "original": "Instalação de canaleta meia cana d=0;6m",
+      "importacao": "R00207 - Instalação de canaleta meia cana d=0.6m"
+    },
+    {
+      "UID": "208",
+      "original": "Escavação manual de cavas ou valas; material de 1ª categoria - profundidade até 1;5m",
+      "importacao": "R00208 - Escavação manual de cavas ou valas - material de 1ª categoria - profundidade até 1.5m"
+    },
+    {
+      "UID": "209",
+      "original": "Instalação de canaleta meia cana d=086m",
+      "importacao": "R00209 - Instalação de canaleta meia cana d=086m"
+    },
+    {
+      "UID": "210",
+      "original": "Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 1;50m",
+      "importacao": "R00210 - Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 1.50m"
+    },
+    {
+      "UID": "211",
+      "original": "Regularização de fundo de cavas ou valas de fundo de cavas ou valas",
+      "importacao": "R00211 - Regularização de fundo de cavas ou valas de fundo de cavas ou valas"
+    },
+    {
+      "UID": "212",
+      "original": "Concreto magro",
+      "importacao": "R00212 - Concreto magro"
+    },
+    {
+      "UID": "213",
+      "original": "Concreto estrutural FCK 25 Mpa",
+      "importacao": "R00213 - Concreto estrutural FCK 25 Mpa"
+    },
+    {
+      "UID": "214",
+      "original": "Montagem e armação de aço CA-50 (qualquer diâmetro)",
+      "importacao": "R00214 - Montagem e armação de aço CA-50 (qualquer diâmetro)"
+    },
+    {
+      "UID": "215",
+      "original": "Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 1;50m",
+      "importacao": "R00215 - Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 1.50m"
+    },
+    {
+      "UID": "216",
+      "original": "Regularização de fundo de cavas ou valas de fundo de cavas ou valas",
+      "importacao": "R00216 - Regularização de fundo de cavas ou valas de fundo de cavas ou valas"
+    },
+    {
+      "UID": "217",
+      "original": "Concreto magro",
+      "importacao": "R00217 - Concreto magro"
+    },
+    {
+      "UID": "218",
+      "original": "Concreto estrutural FCK 25 Mpa",
+      "importacao": "R00218 - Concreto estrutural FCK 25 Mpa"
+    },
+    {
+      "UID": "219",
+      "original": "Montagem e armação de aço CA-50 (qualquer diâmetro)",
+      "importacao": "R00219 - Montagem e armação de aço CA-50 (qualquer diâmetro)"
+    },
+    {
+      "UID": "220",
+      "original": "Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 1;50m",
+      "importacao": "R00220 - Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 1.50m"
+    },
+    {
+      "UID": "221",
+      "original": "Regularização de fundo de cavas ou valas de fundo de cavas ou valas",
+      "importacao": "R00221 - Regularização de fundo de cavas ou valas de fundo de cavas ou valas"
+    },
+    {
+      "UID": "222",
+      "original": "Concreto magro",
+      "importacao": "R00222 - Concreto magro"
+    },
+    {
+      "UID": "223",
+      "original": "Concreto estrutural FCK 25 Mpa",
+      "importacao": "R00223 - Concreto estrutural FCK 25 Mpa"
+    },
+    {
+      "UID": "224",
+      "original": "Montagem e armação de aço CA-50 (qualquer diâmetro)",
+      "importacao": "R00224 - Montagem e armação de aço CA-50 (qualquer diâmetro)"
+    },
+    {
+      "UID": "225",
+      "original": "Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 1;50m",
+      "importacao": "R00225 - Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 1.50m"
+    },
+    {
+      "UID": "226",
+      "original": "Regularização de fundo de cavas ou valas de fundo de cavas ou valas",
+      "importacao": "R00226 - Regularização de fundo de cavas ou valas de fundo de cavas ou valas"
+    },
+    {
+      "UID": "227",
+      "original": "Concreto magro",
+      "importacao": "R00227 - Concreto magro"
+    },
+    {
+      "UID": "228",
+      "original": "Concreto estrutural FCK 25 Mpa",
+      "importacao": "R00228 - Concreto estrutural FCK 25 Mpa"
+    },
+    {
+      "UID": "229",
+      "original": "Montagem e armação de aço CA-50 (qualquer diâmetro)",
+      "importacao": "R00229 - Montagem e armação de aço CA-50 (qualquer diâmetro)"
+    },
+    {
+      "UID": "230",
+      "original": "Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 1;50m",
+      "importacao": "R00230 - Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 1.50m"
+    },
+    {
+      "UID": "231",
+      "original": "Reaterro compactado de cavas ou valas; sem controle de grau de compactação - manual",
+      "importacao": "R00231 - Reaterro compactado de cavas ou valas - sem controle de grau de compactação - manual"
+    },
+    {
+      "UID": "232",
+      "original": "Regularização de fundo de cavas ou valas de fundo de cavas ou valas",
+      "importacao": "R00232 - Regularização de fundo de cavas ou valas de fundo de cavas ou valas"
+    },
+    {
+      "UID": "233",
+      "original": "Concreto magro",
+      "importacao": "R00233 - Concreto magro"
+    },
+    {
+      "UID": "234",
+      "original": "Fornecimento e Aplicação de Forma",
+      "importacao": "R00234 - Fornecimento e Aplicação de Forma"
+    },
+    {
+      "UID": "235",
+      "original": "Concreto estrutural FCK 25 Mpa",
+      "importacao": "R00235 - Concreto estrutural FCK 25 Mpa"
+    },
+    {
+      "UID": "236",
+      "original": "Montagem e armação de aço CA-50 (qualquer diâmetro)",
+      "importacao": "R00236 - Montagem e armação de aço CA-50 (qualquer diâmetro)"
+    },
+    {
+      "UID": "237",
+      "original": "Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 1;50m",
+      "importacao": "R00237 - Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 1.50m"
+    },
+    {
+      "UID": "238",
+      "original": "Reaterro compactado de cavas ou valas; sem controle de grau de compactação - manual",
+      "importacao": "R00238 - Reaterro compactado de cavas ou valas - sem controle de grau de compactação - manual"
+    },
+    {
+      "UID": "239",
+      "original": "Regularização de fundo de cavas ou valas de fundo de cavas ou valas",
+      "importacao": "R00239 - Regularização de fundo de cavas ou valas de fundo de cavas ou valas"
+    },
+    {
+      "UID": "240",
+      "original": "Concreto magro",
+      "importacao": "R00240 - Concreto magro"
+    },
+    {
+      "UID": "241",
+      "original": "Fornecimento e Aplicação de Forma",
+      "importacao": "R00241 - Fornecimento e Aplicação de Forma"
+    },
+    {
+      "UID": "242",
+      "original": "Concreto estrutural FCK 25 Mpa",
+      "importacao": "R00242 - Concreto estrutural FCK 25 Mpa"
+    },
+    {
+      "UID": "243",
+      "original": "Montagem e armação de aço CA-50 (qualquer diâmetro)",
+      "importacao": "R00243 - Montagem e armação de aço CA-50 (qualquer diâmetro)"
+    },
+    {
+      "UID": "244",
+      "original": "BUEIRO TIPO 7 - CIRCULAR D=0;8m - Escavação mecanizada em valas até 1;5m; instalação e reaterro.",
+      "importacao": "R00244 - BUEIRO TIPO 7 - CIRCULAR D=0.8m - Escavação mecanizada em valas até 1.5m - instalação e reaterro."
+    },
+    {
+      "UID": "245",
+      "original": "BUEIRO TIPO 8 - CIRCULAR D=1;5m - Escavação mecanizada em valas até 1;5m; instalação e reaterro.",
+      "importacao": "R00245 - BUEIRO TIPO 8 - CIRCULAR D=1.5m - Escavação mecanizada em valas até 1.5m - instalação e reaterro."
+    },
+    {
+      "UID": "246",
+      "original": "BUEIRO TIPO 8 - CELULAR DUPLO D=1;5m - Escavação mecanizada em valas até 1;5m; instalação e reaterro.",
+      "importacao": "R00246 - BUEIRO TIPO 8 - CELULAR DUPLO D=1.5m - Escavação mecanizada em valas até 1.5m - instalação e reaterro."
+    },
+    {
+      "UID": "247",
+      "original": "Travessia em grade metálica para trem-tipo até 45t (6 apoios); vão até 1;0",
+      "importacao": "R00247 - Travessia em grade metálica para trem-tipo até 45t (6 apoios) - vão até 1.0"
+    },
+    {
+      "UID": "248",
+      "original": "Travessia em grade metálica para trem-tipo até 45t (6 apoios); vão entre 1;0 e 2;0m",
+      "importacao": "R00248 - Travessia em grade metálica para trem-tipo até 45t (6 apoios) - vão entre 1.0 e 2.0m"
+    },
+    {
+      "UID": "249",
+      "original": "Plantio de grama por hidrossemeadura",
+      "importacao": "R00249 - Plantio de grama por hidrossemeadura"
+    },
+    {
+      "UID": "250",
+      "original": "Plantio de grama por hidrossemeadura",
+      "importacao": "R00250 - Plantio de grama por hidrossemeadura"
+    },
+    {
+      "UID": "251",
+      "original": "Plantio de grama por hidrossemeadura",
+      "importacao": "R00251 - Plantio de grama por hidrossemeadura"
+    },
+    {
+      "UID": "252",
+      "original": "Plantio de grama por hidrossemeadura",
+      "importacao": "R00252 - Plantio de grama por hidrossemeadura"
+    },
+    {
+      "UID": "253",
+      "original": "Plantio de grama por hidrossemeadura",
+      "importacao": "R00253 - Plantio de grama por hidrossemeadura"
+    },
+    {
+      "UID": "254",
+      "original": "Plantio de grama por hidrossemeadura",
+      "importacao": "R00254 - Plantio de grama por hidrossemeadura"
+    },
+    {
+      "UID": "255",
+      "original": "Fornecimento; instalação; operação e manutenção das bombas (SUMP)",
+      "importacao": "R00255 - Fornecimento - instalação - operação e manutenção das bombas (SUMP)"
+    },
+    {
+      "UID": "256",
+      "original": "Instalações provisórias e definitivas - Mobilização de pessoal e equipamentos",
+      "importacao": "R00256 - Instalações provisórias e definitivas - Mobilização de pessoal e equipamentos"
+    },
+    {
+      "UID": "257",
+      "original": "Instalações provisórias e definitivas - Desmobilização de pessoal e equipamentos",
+      "importacao": "R00257 - Instalações provisórias e definitivas - Desmobilização de pessoal e equipamentos"
+    },
+    {
+      "UID": "258",
+      "original": "Construção de canteiro avançado nas frentes de serviço",
+      "importacao": "R00258 - Construção de canteiro avançado nas frentes de serviço"
+    },
+    {
+      "UID": "259",
+      "original": "Manutenção de canteiro avançado nas frentes de serviço",
+      "importacao": "R00259 - Manutenção de canteiro avançado nas frentes de serviço"
+    },
+    {
+      "UID": "260",
+      "original": "Limpeza do terreno - Supressão vegetal;  destocamento  e  limpeza de árvores;  arbustos; vegetação  rasteira e  entulhos com remoção para área de depósito - DMT até 2500m (REGIÃO DA PILHA RG5)",
+      "importacao": "R00260 - Limpeza do terreno - Supressão vegetal - destocamento  e  limpeza de árvores - arbustos - vegetação  rasteira e  entulhos com remoção para área de depósito - DMT até 2500m (REGIÃO DA PILHA RG5)"
+    },
+    {
+      "UID": "261",
+      "original": "Limpeza do terreno - Supressão vegetal;  destocamento  e  limpeza de árvores;  arbustos; vegetação  rasteira e  entulhos com remoção para área de depósito - DMT até 2500m (SUMP)",
+      "importacao": "R00261 - Limpeza do terreno - Supressão vegetal - destocamento  e  limpeza de árvores - arbustos - vegetação  rasteira e  entulhos com remoção para área de depósito - DMT até 2500m (SUMP)"
+    },
+    {
+      "UID": "262",
+      "original": "Limpeza do terreno - Escavação; carga; transporte e descarga de material de 1ª categoria - DMT até 2500m (limpeza superficial max 30cm) (SUMP)",
+      "importacao": "R00262 - Limpeza do terreno - Escavação - carga - transporte e descarga de material de 1ª categoria - DMT até 2500m (limpeza superficial max 30cm) (SUMP)"
+    },
+    {
+      "UID": "263",
+      "original": "Limpeza do terreno - Escavação; carga; transporte e descarga de material de 1ª categoria - DMT até 2500m (limpeza superficial max 30cm) ( REGIÃO DA PILHA RG5)",
+      "importacao": "R00263 - Limpeza do terreno - Escavação - carga - transporte e descarga de material de 1ª categoria - DMT até 2500m (limpeza superficial max 30cm) ( REGIÃO DA PILHA RG5)"
+    },
+    {
+      "UID": "264",
+      "original": "Esvação em material de 1ª categoria - DMT até 2500m",
+      "importacao": "R00264 - Esvação em material de 1ª categoria - DMT até 2500m"
+    },
+    {
+      "UID": "265",
+      "original": "Aplicação de Geomembrana de PEAD 1;5mm",
+      "importacao": "R00265 - Aplicação de Geomembrana de PEAD 1.5mm"
+    },
+    {
+      "UID": "266",
+      "original": "Aplicação de Geodreno de PEAD perfurado com diâmetro nominal de 100 cm",
+      "importacao": "R00266 - Aplicação de Geodreno de PEAD perfurado com diâmetro nominal de 100 cm"
+    },
+    {
+      "UID": "267",
+      "original": "Aplicação de material para enrocamento",
+      "importacao": "R00267 - Aplicação de material para enrocamento"
+    },
+    {
+      "UID": "268",
+      "original": "Aplicação transição em Brita 0 (Dreno principal)",
+      "importacao": "R00268 - Aplicação transição em Brita 0 (Dreno principal)"
+    },
+    {
+      "UID": "269",
+      "original": "Aplicação de Areia (Dreno principal; auxiliar e dreno de alivo)",
+      "importacao": "R00269 - Aplicação de Areia (Dreno principal - auxiliar e dreno de alivo)"
+    },
+    {
+      "UID": "270",
+      "original": "Escavação mecanizada em material de 1ª categoria - ACESSO",
+      "importacao": "R00270 - Escavação mecanizada em material de 1ª categoria - ACESSO"
+    },
+    {
+      "UID": "271",
+      "original": "Escavação mecanizada em material de 1ª categoria - SUMP",
+      "importacao": "R00271 - Escavação mecanizada em material de 1ª categoria - SUMP"
+    },
+    {
+      "UID": "272",
+      "original": "Regularização de fundo de cavas ou valas de fundo de cavas ou valas",
+      "importacao": "R00272 - Regularização de fundo de cavas ou valas de fundo de cavas ou valas"
+    },
+    {
+      "UID": "273",
+      "original": "Aplicação de concreto magro",
+      "importacao": "R00273 - Aplicação de concreto magro"
+    },
+    {
+      "UID": "274",
+      "original": "Aplicação de concreto armado FCK 25 MPa",
+      "importacao": "R00274 - Aplicação de concreto armado FCK 25 MPa"
+    },
+    {
+      "UID": "275",
+      "original": "Aplicação de forma plana com tábua de madeira para estrutura de fundação; inclusive escoramento de estruturas verticais",
+      "importacao": "R00275 - Aplicação de forma plana com tábua de madeira para estrutura de fundação - inclusive escoramento de estruturas verticais"
+    },
+    {
+      "UID": "276",
+      "original": "Aplicação de geomembrana de PEAD 1;5mm; fornecimento e instalação.",
+      "importacao": "R00276 - Aplicação de geomembrana de PEAD 1.5mm - fornecimento e instalação."
+    },
+    {
+      "UID": "277",
+      "original": "Aplicação de geotextil 200g/m2",
+      "importacao": "R00277 - Aplicação de geotextil 200g/m2"
+    },
+    {
+      "UID": "278",
+      "original": "Aplicação de geotubo Corrugado (D = 10 cm)",
+      "importacao": "R00278 - Aplicação de geotubo Corrugado (D = 10 cm)"
+    },
+    {
+      "UID": "279",
+      "original": "Sistema de Detecção de Vazamentos - Aplicação de areia",
+      "importacao": "R00279 - Sistema de Detecção de Vazamentos - Aplicação de areia"
+    },
+    {
+      "UID": "280",
+      "original": "Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 3;0m",
+      "importacao": "R00280 - Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 3.0m"
+    },
+    {
+      "UID": "281",
+      "original": "Regularização de fundo de cavas ou valas de fundo de cavas ou valas",
+      "importacao": "R00281 - Regularização de fundo de cavas ou valas de fundo de cavas ou valas"
+    },
+    {
+      "UID": "282",
+      "original": "Aplicação de concreto magro",
+      "importacao": "R00282 - Aplicação de concreto magro"
+    },
+    {
+      "UID": "283",
+      "original": "Aplicação de concreto armado FCK 25 MPa",
+      "importacao": "R00283 - Aplicação de concreto armado FCK 25 MPa"
+    },
+    {
+      "UID": "284",
+      "original": "Fornecimento e aplicação de forma plana com tábua de madeira para estrutura de fundação; inclusive escoramento de estruturas verticais",
+      "importacao": "R00284 - Fornecimento e aplicação de forma plana com tábua de madeira para estrutura de fundação - inclusive escoramento de estruturas verticais"
+    },
+    {
+      "UID": "285",
+      "original": "Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 3;0m",
+      "importacao": "R00285 - Escavação mecanizada de cavas ou valas em material de 1ª categoria - profundidade até 3.0m"
+    },
+    {
+      "UID": "286",
+      "original": "'Regularização de fundo de cavas ou valas de fundo de cavas ou valas",
+      "importacao": "R00286 - 'Regularização de fundo de cavas ou valas de fundo de cavas ou valas"
+    },
+    {
+      "UID": "287",
+      "original": "Aplicação de concreto magro",
+      "importacao": "R00287 - Aplicação de concreto magro"
+    },
+    {
+      "UID": "288",
+      "original": "Aplicação de concreto armado FCK 25 MPa",
+      "importacao": "R00288 - Aplicação de concreto armado FCK 25 MPa"
+    },
+    {
+      "UID": "289",
+      "original": "Fornecimento e aplicação de forma plana com tábua de madeira para estrutura de fundação; inclusive escoramento de estruturas verticais",
+      "importacao": "R00289 - Fornecimento e aplicação de forma plana com tábua de madeira para estrutura de fundação - inclusive escoramento de estruturas verticais"
+    },
+    {
+      "UID": "290",
+      "original": "Aplicação de geomembrana de PEAD 1;5mm",
+      "importacao": "R00290 - Aplicação de geomembrana de PEAD 1.5mm"
+    },
+    {
+      "UID": "291",
+      "original": "Aplicação de geotextil 200g/m2",
+      "importacao": "R00291 - Aplicação de geotextil 200g/m2"
+    },
+    {
+      "UID": "292",
+      "original": "Escavação manual de vala de acocoragem - 0;3x0;3m",
+      "importacao": "R00292 - Escavação manual de vala de acocoragem - 0.3x0.3m"
+    },
+    {
+      "UID": "293",
+      "original": "Montagem e armação de aço CA-50 - 6;3 mm",
+      "importacao": "R00293 - Montagem e armação de aço CA-50 - 6.3 mm"
+    },
+    {
+      "UID": "294",
+      "original": "Montagem e armação de aço CA-50 - 8 mm",
+      "importacao": "R00294 - Montagem e armação de aço CA-50 - 8 mm"
+    },
+    {
+      "UID": "295",
+      "original": "Montagem e armação de aço CA-50 - 10 mm",
+      "importacao": "R00295 - Montagem e armação de aço CA-50 - 10 mm"
+    },
+    {
+      "UID": "296",
+      "original": "Montagem e armação de aço CA-50 - 12;5 mm",
+      "importacao": "R00296 - Montagem e armação de aço CA-50 - 12.5 mm"
+    },
+    {
+      "UID": "297",
+      "original": "Montagem e armação de aço CA-50 - 25 mm",
+      "importacao": "R00297 - Montagem e armação de aço CA-50 - 25 mm"
+    },
+    {
+      "UID": "298",
+      "original": "Montagem e armação de aço CA-50 - 32 mm",
+      "importacao": "R00298 - Montagem e armação de aço CA-50 - 32 mm"
+    },
+    {
+      "UID": "299",
+      "original": "Gerdal W 200 x 35;9",
+      "importacao": "R00299 - Gerdal W 200 x 35.9"
+    },
+    {
+      "UID": "300",
+      "original": "CH. 19;00 x 201 x 600",
+      "importacao": "R00300 - CH. 19.00 x 201 x 600"
+    },
+    {
+      "UID": "301",
+      "original": "L. 6;35 x 101;60",
+      "importacao": "R00301 - L. 6.35 x 101.60"
+    },
+    {
+      "UID": "302",
+      "original": "BR. 6;35 x 38;10 x 140",
+      "importacao": "R00302 - BR. 6.35 x 38.10 x 140"
+    },
+    {
+      "UID": "303",
+      "original": "CH 8;00 x 100 x COR.",
+      "importacao": "R00303 - CH 8.00 x 100 x COR."
+    },
+    {
+      "UID": "304",
+      "original": "BR. 7;94 x 38;10 x 190",
+      "importacao": "R00304 - BR. 7.94 x 38.10 x 190"
+    },
+    {
+      "UID": "305",
+      "original": "Instalações provisórias e definitivas - Mobilização de pessoal e equipamentos",
+      "importacao": "R00305 - Instalações provisórias e definitivas - Mobilização de pessoal e equipamentos"
+    },
+    {
+      "UID": "306",
+      "original": "Instalações provisórias e definitivas - Desmobilização de pessoal e equipamentos",
+      "importacao": "R00306 - Instalações provisórias e definitivas - Desmobilização de pessoal e equipamentos"
+    },
+    {
+      "UID": "307",
+      "original": "Construção de canteiro avançado nas frentes de serviço",
+      "importacao": "R00307 - Construção de canteiro avançado nas frentes de serviço"
+    },
+    {
+      "UID": "308",
+      "original": "Manutenção de canteiro avançado nas frentes de serviço",
+      "importacao": "R00308 - Manutenção de canteiro avançado nas frentes de serviço"
+    },
+    {
+      "UID": "309",
+      "original": "Supressão vegetal;  destocamento  e  limpeza de árvores;  arbustos; vegetação rasteira",
+      "importacao": "R00309 - Supressão vegetal - destocamento  e  limpeza de árvores - arbustos - vegetação rasteira"
+    },
+    {
+      "UID": "310",
+      "original": "Volume de Tratamento e Regularização",
+      "importacao": "R00310 - Volume de Tratamento e Regularização"
+    },
+    {
+      "UID": "311",
+      "original": "Limpeza e Tratamento da Fundação - Espessura média de 1 metro.",
+      "importacao": "R00311 - Limpeza e Tratamento da Fundação - Espessura média de 1 metro."
+    },
+    {
+      "UID": "312",
+      "original": "Volume de Aterro - Argila Compactada - Camada de 1;0 metro. (3)",
+      "importacao": "R00312 - Volume de Aterro - Argila Compactada - Camada de 1.0 metro. (3)"
+    },
+    {
+      "UID": "313",
+      "original": "Aplicação de Geomembrana de PEAD - 2mm - Texturizada nas duas faces (2)",
+      "importacao": "R00313 - Aplicação de Geomembrana de PEAD - 2mm - Texturizada nas duas faces (2)"
+    },
+    {
+      "UID": "314",
+      "original": "Aplicação de Brita (3)",
+      "importacao": "R00314 - Aplicação de Brita (3)"
+    },
+    {
+      "UID": "315",
+      "original": "Aplicação de Geotubo drenante; corrugado; flexível; fabricado em PEAD; Ø >= 100mm",
+      "importacao": "R00315 - Aplicação de Geotubo drenante - corrugado - flexível - fabricado em PEAD - Ø >= 100mm"
+    },
+    {
+      "UID": "316",
+      "original": "Aplicação de Geotêxtil tipo Bidim RT-21² (2)",
+      "importacao": "R00316 - Aplicação de Geotêxtil tipo Bidim RT-21² (2)"
+    },
+    {
+      "UID": "317",
+      "original": "Caixa Coletora em Concreto - 1;0 m x 1;0 m x 1;0m e=0;15m",
+      "importacao": "R00317 - Caixa Coletora em Concreto - 1.0 m x 1.0 m x 1.0m e=0.15m"
+    },
+    {
+      "UID": "318",
+      "original": "Aplicação de Areia",
+      "importacao": "R00318 - Aplicação de Areia"
+    },
+    {
+      "UID": "319",
+      "original": "Aplicação de Brita 0",
+      "importacao": "R00319 - Aplicação de Brita 0"
+    },
+    {
+      "UID": "320",
+      "original": "Aplicação de Brita 3",
+      "importacao": "R00320 - Aplicação de Brita 3"
+    },
+    {
+      "UID": "321",
+      "original": "Aplicação de Enrocamento D= 15cm",
+      "importacao": "R00321 - Aplicação de Enrocamento D= 15cm"
+    },
+    {
+      "UID": "322",
+      "original": "Aço CA-50 nervurado; diâmetro - 6.3mm",
+      "importacao": "R00322 - Aço CA-50 nervurado - diâmetro - 6.3mm"
+    },
+    {
+      "UID": "323",
+      "original": "Aço CA-50 nervurado; diâmetro - 8.0mm",
+      "importacao": "R00323 - Aço CA-50 nervurado - diâmetro - 8.0mm"
+    },
+    {
+      "UID": "324",
+      "original": "Aço CA-50 nervurado; diâmetro - 10.0mm",
+      "importacao": "R00324 - Aço CA-50 nervurado - diâmetro - 10.0mm"
+    },
+    {
+      "UID": "325",
+      "original": "Lastro - Concreto Magro - 5MPa (m³)",
+      "importacao": "R00325 - Lastro - Concreto Magro - 5MPa (m³)"
+    },
+    {
+      "UID": "326",
+      "original": "Concreto 30 MPa (m³)",
+      "importacao": "R00326 - Concreto 30 MPa (m³)"
+    },
+    {
+      "UID": "327",
+      "original": "Fôrma (m²)",
+      "importacao": "R00327 - Fôrma (m²)"
+    },
+    {
+      "UID": "328",
+      "original": "Junta Fungenband Tipo O-22 (m)",
+      "importacao": "R00328 - Junta Fungenband Tipo O-22 (m)"
+    },
+    {
+      "UID": "329",
+      "original": "Aço CA-50 nervurado; diâmetro - 6.3mm",
+      "importacao": "R00329 - Aço CA-50 nervurado - diâmetro - 6.3mm"
+    },
+    {
+      "UID": "330",
+      "original": "Aço CA-50 nervurado; diâmetro - 8.0mm",
+      "importacao": "R00330 - Aço CA-50 nervurado - diâmetro - 8.0mm"
+    },
+    {
+      "UID": "331",
+      "original": "Aço CA-50 nervurado; diâmetro - 10.0mm",
+      "importacao": "R00331 - Aço CA-50 nervurado - diâmetro - 10.0mm"
+    },
+    {
+      "UID": "332",
+      "original": "Lastro - Concreto Magro - 5MPa (m³)",
+      "importacao": "R00332 - Lastro - Concreto Magro - 5MPa (m³)"
+    },
+    {
+      "UID": "333",
+      "original": "Concreto 30 MPa (m³)",
+      "importacao": "R00333 - Concreto 30 MPa (m³)"
+    },
+    {
+      "UID": "334",
+      "original": "Fôrma (m²)",
+      "importacao": "R00334 - Fôrma (m²)"
+    },
+    {
+      "UID": "335",
+      "original": "Junta Fungenband Tipo O-22 (m)",
+      "importacao": "R00335 - Junta Fungenband Tipo O-22 (m)"
+    },
+    {
+      "UID": "336",
+      "original": "Aço CA-50 nervurado; diâmetro - 6.3mm",
+      "importacao": "R00336 - Aço CA-50 nervurado - diâmetro - 6.3mm"
+    },
+    {
+      "UID": "337",
+      "original": "Aço CA-50 nervurado; diâmetro - 8.0mm",
+      "importacao": "R00337 - Aço CA-50 nervurado - diâmetro - 8.0mm"
+    },
+    {
+      "UID": "338",
+      "original": "Aço CA-50 nervurado; diâmetro - 10.0mm",
+      "importacao": "R00338 - Aço CA-50 nervurado - diâmetro - 10.0mm"
+    },
+    {
+      "UID": "339",
+      "original": "Lastro - Concreto Magro - 5MPa (m³)",
+      "importacao": "R00339 - Lastro - Concreto Magro - 5MPa (m³)"
+    },
+    {
+      "UID": "340",
+      "original": "Concreto 30 MPa (m³)",
+      "importacao": "R00340 - Concreto 30 MPa (m³)"
+    },
+    {
+      "UID": "341",
+      "original": "Fôrma (m²)",
+      "importacao": "R00341 - Fôrma (m²)"
+    },
+    {
+      "UID": "342",
+      "original": "Junta Fungenband Tipo O-22 (m)",
+      "importacao": "R00342 - Junta Fungenband Tipo O-22 (m)"
+    },
+    {
+      "UID": "343",
+      "original": "Aço CA-50 nervurado; diâmetro - 8.0mm",
+      "importacao": "R00343 - Aço CA-50 nervurado - diâmetro - 8.0mm"
+    },
+    {
+      "UID": "344",
+      "original": "Aço CA-50 nervurado; diâmetro - 10.0mm",
+      "importacao": "R00344 - Aço CA-50 nervurado - diâmetro - 10.0mm"
+    },
+    {
+      "UID": "345",
+      "original": "Lastro - Concreto Magro - 5MPa (m³)",
+      "importacao": "R00345 - Lastro - Concreto Magro - 5MPa (m³)"
+    },
+    {
+      "UID": "346",
+      "original": "Concreto 30 MPa (m³)",
+      "importacao": "R00346 - Concreto 30 MPa (m³)"
+    },
+    {
+      "UID": "347",
+      "original": "Fôrma (m²)",
+      "importacao": "R00347 - Fôrma (m²)"
+    },
+    {
+      "UID": "348",
+      "original": "Aço CA-50 nervurado; diâmetro - 8.0mm",
+      "importacao": "R00348 - Aço CA-50 nervurado - diâmetro - 8.0mm"
+    },
+    {
+      "UID": "349",
+      "original": "Aço CA-50 nervurado; diâmetro - 10.0mm",
+      "importacao": "R00349 - Aço CA-50 nervurado - diâmetro - 10.0mm"
+    },
+    {
+      "UID": "350",
+      "original": "Lastro - Concreto Magro - 5MPa (m³)",
+      "importacao": "R00350 - Lastro - Concreto Magro - 5MPa (m³)"
+    },
+    {
+      "UID": "351",
+      "original": "Concreto 30 MPa (m³)",
+      "importacao": "R00351 - Concreto 30 MPa (m³)"
+    },
+    {
+      "UID": "352",
+      "original": "Fôrma (m²)",
+      "importacao": "R00352 - Fôrma (m²)"
+    },
+    {
+      "UID": "353",
+      "original": "Aço CA-50 nervurado; diâmetro - 8.0mm",
+      "importacao": "R00353 - Aço CA-50 nervurado - diâmetro - 8.0mm"
+    },
+    {
+      "UID": "354",
+      "original": "Aço CA-50 nervurado; diâmetro - 10.0mm",
+      "importacao": "R00354 - Aço CA-50 nervurado - diâmetro - 10.0mm"
+    },
+    {
+      "UID": "355",
+      "original": "Lastro - Concreto Magro - 5MPa (m³)",
+      "importacao": "R00355 - Lastro - Concreto Magro - 5MPa (m³)"
+    },
+    {
+      "UID": "356",
+      "original": "Concreto 30 MPa (m³)",
+      "importacao": "R00356 - Concreto 30 MPa (m³)"
+    },
+    {
+      "UID": "357",
+      "original": "Fôrma (m²)",
+      "importacao": "R00357 - Fôrma (m²)"
+    },
+    {
+      "UID": "358",
+      "original": "Volume de Corte",
+      "importacao": "R00358 - Volume de Corte"
+    },
+    {
+      "UID": "359",
+      "original": "Aplicação e Fornecimento de Geomembrana de PEAD - 2mm (2)",
+      "importacao": "R00359 - Aplicação e Fornecimento de Geomembrana de PEAD - 2mm (2)"
+    },
+    {
+      "UID": "360",
+      "original": "Aplicação e Fornecimento de Geocécula preenchida com concreto (2)",
+      "importacao": "R00360 - Aplicação e Fornecimento de Geocécula preenchida com concreto (2)"
+    },
+    {
+      "UID": "361",
+      "original": "Fornecimento e aplicação de concreto estrutural 30 Mpa",
+      "importacao": "R00361 - Fornecimento e aplicação de concreto estrutural 30 Mpa"
+    },
+    {
+      "UID": "362",
+      "original": "Aplicação e Fornecimento de manta geotêxtil não tecida em poliéster; agulhado; com resistência a tração de 21kN/m ( tipo Bidim RT 21) (2)",
+      "importacao": "R00362 - Aplicação e Fornecimento de manta geotêxtil não tecida em poliéster - agulhado - com resistência a tração de 21kN/m ( tipo Bidim RT 21) (2)"
+    },
+    {
+      "UID": "363",
+      "original": "Bueiro Triplo do Sistama Extravasor - ø=0.6m. e L= 25.0m.",
+      "importacao": "R00363 - Bueiro Triplo do Sistama Extravasor - ø=0.6m. e L= 25.0m."
+    },
+    {
+      "UID": "364",
+      "original": "Boca de Bueiro Tubular Triplo em Concreto",
+      "importacao": "R00364 - Boca de Bueiro Tubular Triplo em Concreto"
+    },
+    {
+      "UID": "365",
+      "original": "Remoção e destinação de 03 (três) postes da linha de distribuição de energia com interferência na região das obras (desenergizados)",
+      "importacao": "R00365 - Remoção e destinação de 03 (três) postes da linha de distribuição de energia com interferência na região das obras (desenergizados)"
+    },
+    {
+      "UID": "10001",
+      "original": "BETONEIRA 320 L",
+      "importacao": "R10001 - BETONEIRA 320 L"
+    },
+    {
+      "UID": "10002",
+      "original": "GERADOR 100 KVA",
+      "importacao": "R10002 - GERADOR 100 KVA"
+    },
+    {
+      "UID": "10003",
+      "original": "MAQUINA DE SOLDA",
+      "importacao": "R10003 - MAQUINA DE SOLDA"
+    },
+    {
+      "UID": "10004",
+      "original": "PA CARREGADEIRA TIPO W20",
+      "importacao": "R10004 - PA CARREGADEIRA TIPO W20"
+    },
+    {
+      "UID": "10005",
+      "original": "RETRO-ESCAVADEIRA",
+      "importacao": "R10005 - RETRO-ESCAVADEIRA"
+    },
+    {
+      "UID": "10006",
+      "original": "ROLO COMPACTADOR 20 T",
+      "importacao": "R10006 - ROLO COMPACTADOR 20 T"
+    },
+    {
+      "UID": "10007",
+      "original": "ROLO COMPACTADOR 12T PC",
+      "importacao": "R10007 - ROLO COMPACTADOR 12T PC"
+    },
+    {
+      "UID": "10008",
+      "original": "CAMINHÃO PIPA 20.000 L",
+      "importacao": "R10008 - CAMINHÃO PIPA 20.000 L"
+    },
+    {
+      "UID": "10009",
+      "original": "TRATOR AGRICOLA C/ GRADE",
+      "importacao": "R10009 - TRATOR AGRICOLA C/ GRADE"
+    },
+    {
+      "UID": "10010",
+      "original": "CAMINHÃO MUNCK 30 TON",
+      "importacao": "R10010 - CAMINHÃO MUNCK 30 TON"
+    },
+    {
+      "UID": "10011",
+      "original": "EXTRUSORA",
+      "importacao": "R10011 - EXTRUSORA"
+    },
+    {
+      "UID": "10012",
+      "original": "MAQUINA DE SOLDA - ELETROFUSÃO 1200 MM",
+      "importacao": "R10012 - MAQUINA DE SOLDA - ELETROFUSÃO 1200 MM"
+    },
+    {
+      "UID": "10013",
+      "original": "GERADOR 4;5 KVA",
+      "importacao": "R10013 - GERADOR 4.5 KVA"
+    },
+    {
+      "UID": "10014",
+      "original": "GERADOR 50 KVA",
+      "importacao": "R10014 - GERADOR 50 KVA"
+    },
+    {
+      "UID": "10015",
+      "original": "GERADOR 20 KVA",
+      "importacao": "R10015 - GERADOR 20 KVA"
+    },
+    {
+      "UID": "10016",
+      "original": "TRATOR ESTEIRAS CAT D6",
+      "importacao": "R10016 - TRATOR ESTEIRAS CAT D6"
+    },
+    {
+      "UID": "10017",
+      "original": "CAMINHÃO BASCULANTE 8x4 18 M3",
+      "importacao": "R10017 - CAMINHÃO BASCULANTE 8x4 18 M3"
+    },
+    {
+      "UID": "10018",
+      "original": "CAMINHÃO BASCULANTE 6x4 16 M3",
+      "importacao": "R10018 - CAMINHÃO BASCULANTE 6x4 16 M3"
+    },
+    {
+      "UID": "10019",
+      "original": "PLACA VIBRATORIA TIPO CM-20",
+      "importacao": "R10019 - PLACA VIBRATORIA TIPO CM-20"
+    },
+    {
+      "UID": "10020",
+      "original": "MOTONIVELADORA 140 H",
+      "importacao": "R10020 - MOTONIVELADORA 140 H"
+    },
+    {
+      "UID": "10021",
+      "original": "ESCAV HID 20 T BRAÇO LONGO",
+      "importacao": "R10021 - ESCAV HID 20 T BRAÇO LONGO"
+    },
+    {
+      "UID": "10022",
+      "original": "ESCAVADEIRA HID 35 T",
+      "importacao": "R10022 - ESCAVADEIRA HID 35 T"
+    },
+    {
+      "UID": "10023",
+      "original": "ESCAV HID 35 T C/ ROMPEDOR",
+      "importacao": "R10023 - ESCAV HID 35 T C/ ROMPEDOR"
+    },
+    {
+      "UID": "10024",
+      "original": "ESCAVADEIRA HID 20 T",
+      "importacao": "R10024 - ESCAVADEIRA HID 20 T"
+    },
+    {
+      "UID": "10025",
+      "original": "PEDREIRO",
+      "importacao": "R10025 - PEDREIRO"
+    },
+    {
+      "UID": "10026",
+      "original": "ARMADOR",
+      "importacao": "R10026 - ARMADOR"
+    },
+    {
+      "UID": "10027",
+      "original": "ELETRICISTA",
+      "importacao": "R10027 - ELETRICISTA"
+    },
+    {
+      "UID": "10028",
+      "original": "CARPINTEIRO",
+      "importacao": "R10028 - CARPINTEIRO"
+    },
+    {
+      "UID": "10029",
+      "original": "OPERADOR DE MAQUINA PESADA",
+      "importacao": "R10029 - OPERADOR DE MAQUINA PESADA"
+    },
+    {
+      "UID": "10030",
+      "original": "AJUDANTE",
+      "importacao": "R10030 - AJUDANTE"
+    },
+    {
+      "UID": "10031",
+      "original": "SOLDADOR",
+      "importacao": "R10031 - SOLDADOR"
+    },
+    {
+      "UID": "10032",
+      "original": "MOTORISTA",
+      "importacao": "R10032 - MOTORISTA"
+    },
+    {
+      "UID": "10033",
+      "original": "OFICIAL",
+      "importacao": "R10033 - OFICIAL"
+    },
+    {
+      "UID": "10034",
+      "original": "MONTADOR",
+      "importacao": "R10034 - MONTADOR"
+    }
+  ],
+  "alteracoes": [
+    "Nomes unicos com UID; separadores normalizados",
+    "Datas antigas removidas do cadastro de recursos",
+    "Datas gerais ajustadas ao envelope",
+    "Notas ativas desatualizadas substituidas",
+    "Nome de importacao documentado sem alterar descricao contratual no Excel",
+    "Campos personalizados remapeados para Text7/Text8 e Number6/7/8; chave, fornecimento e peso no pacote restaurados; precisão dos pesos recomposta a partir do Excel"
+  ]
+}
